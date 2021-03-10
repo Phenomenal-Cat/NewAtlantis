@@ -71,25 +71,52 @@
   New Atlantis Laboratories' :link-badge:`https://www.oshwa.org/, open hardware, cls=badge-info text-white` projects are hosted on `Thingiverse <https://www.thingiverse.com/phenomenalcat/designs>`_ and licensed under the .
 
   .. panels::
-    :column: col-lg-12 p-2 border-0
+    :container: container-lg pb-3
+    :column: col-lg-4 col-md-4 col-sm-6 col-xs-12 p-2
+    :img-top-cls: p-2 bg-primary
     :body: bg-secondary
-   
-    .. image:: _images/Logos/RestEasy_w.svg
-      :align: left
+    :footer: bg-warning
+
+    ---
+    :img-top: _images/Logos/RestEasy_w.svg
+
+    ^^^^^^^^^^^^
+    An open-source chin rest for human psychophysics research.
+
+    +++++++
+    .. image:: _images/Icons/Thingiverse.png
+      :height: 30
+      :target: https://www.thingiverse.com/thing:2968729/files
+    .. image:: _images/Logos/readthedocs_Icon.png
       :height: 30
 
+
+
+    ---
+    :img-top: _images/Logos/RestEasy_w.svg
+
+    ^^^^^^^^^^^^
+    An open-source chin rest for human psychophysics research.
+
+    +++++++
+    .. image:: _images/Icons/Thingiverse.png
+      :height: 30
+      :target: https://www.thingiverse.com/thing:2968729/files
+    .. image:: _images/Logos/readthedocs_Icon.png
+      :height: 30
+
+
+    ---
+    :img-top: _images/Logos/RestEasy_w.svg
+
+    ^^^^^^^^^^^^
+    An open-source chin rest for human psychophysics research.
+
+    +++++++
     .. image:: _images/Icons/Thingiverse.png
       :height: 30
       :align: right
       :target: https://www.thingiverse.com/thing:2968729/files
-
-    An open-source chin rest for human psychophysics research.
-
-  .. panels::
-    :column: col-lg-12 p-2 border-0
-    :body: bg-secondary
-
-
 
 
   
@@ -137,7 +164,7 @@ About
 
 .. panels::
   :column: col-lg-12 p-0 border-0
-  :body: bg-secondary border-0  p-0 
+  :body: bg-secondary border-0
   :header: pl-3 pr-3 bg-primary
 
 
