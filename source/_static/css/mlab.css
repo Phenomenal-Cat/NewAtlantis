@@ -124,12 +124,12 @@ div.document {
     background-color: var(--main-dk1);
     color: var(--main-dk1);
 }
-/* ========= Right page margin ==== */
+/* ========= Left page margin ==== */
 div.bodywrapper {
-    margin: 0px 0px 0px 200px;
+    margin: 0px 0px 0px 300px;
     background-color: var(--main-dk1);
 }
-/* ========= Left page margin ==== */
+/* ========= Right page margin ==== */
 div.documentwrapper {
     float: left;
     width: 100%;

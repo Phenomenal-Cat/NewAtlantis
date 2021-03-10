@@ -16,6 +16,8 @@ NA Resources
 |HW| Open Hardware
 ----------------------
 
+
+
 .. panels::
   :column: col-lg-12 p-2 border-0
   :body: bg-success

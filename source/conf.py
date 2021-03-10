@@ -71,6 +71,8 @@ html_show_sourcelink = False
 
 html_static_path = ['_static']
 
+
+
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
 #
@@ -87,6 +89,7 @@ html_sidebars = { '**': ['globaltoc.html', 'relations.html', 'sourcelink.html', 
 html_css_files = [
     'css/mlab.css',
     'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css',
+    'custom.css',
 ]
 
 
