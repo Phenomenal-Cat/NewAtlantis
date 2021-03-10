@@ -9,3 +9,5 @@ recommonmark
 sphinxcontrib-bibtex
 sphinx-inline-tabs
 sphinx_panels
+matplotlib
+numpy
