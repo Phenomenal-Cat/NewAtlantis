@@ -1,0 +1,184 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>METHVEX - Monkey Eye Tracking for Head-free Visual Experiments &#8212; NewAtlatis 1.0 documentation</title>
+    <link rel="stylesheet" href="_static/nature.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/tabs.css" />
+    <link rel="stylesheet" type="text/css" href="_static/css/mlab.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="_static/panels-bootstrap.5fd3999ee7762ccc51105388f4a9d115.css" />
+    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script src="_static/tabs.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="prev" title="PrimaThrone" href="MLab_NHP_EphysChair.html" /> 
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="MLab_NHP_EphysChair.html" title="PrimaThrone"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">NewAtlatis 1.0 documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">METHVEX - Monkey Eye Tracking for Head-free Visual Experiments</a></li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="methvex-monkey-eye-tracking-for-head-free-visual-experiments">
+<h1>METHVEX - Monkey Eye Tracking for Head-free Visual Experiments<a class="headerlink" href="#methvex-monkey-eye-tracking-for-head-free-visual-experiments" title="Permalink to this headline">¶</a></h1>
+<p>Neuroscientists are increasingly interested in studying brains in the contexts they evolved to process, which requires greater ethological validity of experimental designs.
+To take advantage of paradigms involving immersive environments including
+large enclosures and virtual-reality dome projections, it is desirable to record the subject’s eye position (in head-centered coordinates) in head-free animals.
+This poses several technical challenges:</p>
+<ol class="arabic simple">
+<li><p>The head-mounted video eye-tracking apparatus must be sufficiently light and robust for extended use by chaired animals.</p></li>
+<li><p>The frames that hold the polarizing filters of the 3D glasses and the eye cameras in front of the eyes must minimize the portion of the visual field that they occluded.</p></li>
+<li><p>Head direction signals (in world-centered coordinates) must be integrated with eye direction signals (in head-centered coordinates) in order to compute gaze direction in world-centered coordinates online.</p></li>
+</ol>
+<div class="section" id="pupillabs-a-light-weight-head-mounted-eye-tracker">
+<h2>1) <a class="reference external" href="https://pupil-labs.com/">PupilLabs</a>: A light-weight head-mounted eye tracker<a class="headerlink" href="#pupillabs-a-light-weight-head-mounted-eye-tracker" title="Permalink to this headline">¶</a></h2>
+<a class="reference internal image-reference" href="_images/SCNI_Images17.jpg"><img alt="_images/SCNI_Images17.jpg" class="align-right" src="_images/SCNI_Images17.jpg" style="width: 30%;" /></a>
+<p>Many of the commercial video eye-tracking cameras intended to be head-mounted on human subjects are relatively large and heavy, thus obstructing the visual field and
+putting strain on the wearer. The open-source system from <a class="reference external" href="https://pupil-labs.com/">Pupil Labs</a> utilizes some of the smallest and lightest cameras available. Many
+of the camera specs are comparable to those of the industry standards (such as <a href="#id1"><span class="problematic" id="id2">`SR Research's EyeLink &lt;&gt;`_</span></a>) (see below and <a class="reference external" href="https://doi.org/10.1101/536243">here</a> for a more in depth comparison of performance), but the hardware are substantially smaller
+and lighter. This allows them to be discretely mounted below the eye
+with a direct line of sight - thus avoiding the need for cumbersome and
+delicate hot mirrors, while still minimizing occlusion of the subject’s
+visual field.</p>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 36%" />
+<col style="width: 43%" />
+<col style="width: 21%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"></th>
+<th class="head"><p>SR Research EyeLink II</p></th>
+<th class="head"><p>Pupil Labs</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Sampling frequency</p></td>
+<td><p>500 Hz</p></td>
+<td><p>200 Hz</p></td>
+</tr>
+<tr class="row-odd"><td><p>Gaze accuracy</p></td>
+<td><p>0.5 deg</p></td>
+<td><p>0.6 deg</p></td>
+</tr>
+<tr class="row-even"><td><p>Gaze precision</p></td>
+<td><p>0.01 deg</p></td>
+<td><p>0.08 deg</p></td>
+</tr>
+<tr class="row-odd"><td><p>Camera Latency</p></td>
+<td><p>3 ms</p></td>
+<td><p>4.5 ms</p></td>
+</tr>
+<tr class="row-even"><td><p>Weight</p></td>
+<td><p>XXX g</p></td>
+<td><p>32 g</p></td>
+</tr>
+<tr class="row-odd"><td><p>Cost</p></td>
+<td><p>$20,000</p></td>
+<td><p>$2,000</p></td>
+</tr>
+</tbody>
+</table>
+<p>The eye cameras are very small and can be easily removed from the black
+3D-printed casing provided by PupilLabs for human head-mounted use.
+Instead, we designed a lower-profile camera casing to integrate with the
+3D glasses frames that the macaque subjects wear, as seen in the photos
+below.</p>
+</div>
+<div class="section" id="d-glasses-frames-for-macaques">
+<h2>2) 3D glasses frames for macaques<a class="headerlink" href="#d-glasses-frames-for-macaques" title="Permalink to this headline">¶</a></h2>
+<a class="reference internal image-reference" href="_images/METHVEx_30deg.png"><img alt="_images/METHVEx_30deg.png" class="align-right" src="_images/METHVEx_30deg.png" style="width: 30%;" /></a>
+<p>To minimize occlusion of the subject’s field of view (FOV), we
+designed a pair of spectacle frames to closely fit the contours of the
+face of an average Rhesus macaque (see computer renders below). The wrap-around
+frame style can optionally house circular polarizing filters (taken from
+commercial 3D glasses) for use in immersive dome projection environments. This not only maximizes the FOV but also preserving continuity across the visual field.</p>
+<p>The frames are printed in <a class="reference external" href="https://markforged.com/materials/continuous-fibers/kevlar">Kevlar</a> on a MarkForged 3D printer, making them incredibly impact-resistant.</p>
+<p>To allow adjustment of the glasses position for animals with different
+face shapes and yet keep the glasses firmly in place during head
+movement, the 3D-printed frames attach to an adjustable mounting system
+that is anchored to the subject’s headpost.</p>
+</div>
+</div>
+
+
+            <div class="clearer"></div>
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+            <p class="logo"><a href="index.html">
+              <img class="logo" src="_static/NewAtlantisLabs_1w.png" alt="Logo"/>
+            </a></p>
+<h3><a href="index.html">Table of Contents</a></h3>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="MLab_RestEasy_ChinRest.html">RestEasy - human chin rest</a></li>
+<li class="toctree-l1"><a class="reference internal" href="MLab_NHP_EphysChair.html">PrimaThrone - NHP chair</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">METHVEX - NHP head-free eye tracking</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#pupillabs-a-light-weight-head-mounted-eye-tracker">1) PupilLabs: A light-weight head-mounted eye tracker</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#d-glasses-frames-for-macaques">2) 3D glasses frames for macaques</a></li>
+</ul>
+</li>
+</ul>
+
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="MLab_NHP_EphysChair.html"
+                        title="previous chapter">PrimaThrone</a></p>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" />
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="MLab_NHP_EphysChair.html" title="PrimaThrone"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">NewAtlatis 1.0 documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">METHVEX - Monkey Eye Tracking for Head-free Visual Experiments</a></li> 
+      </ul>
+    </div>
+    <div class="footer" role="contentinfo">
+        &#169; Copyright 2021, New Atlantis Labs.
+      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 3.2.1.
+    </div>
+  </body>
+</html>

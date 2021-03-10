@@ -1,0 +1,28 @@
+﻿Vendor,Material,Description,Quantity,Cost each ($),Cost sum,Use
+`TAP plastics <https://www.tapplastics.com/product/plastics/cut_to_size_plastic/polycarbonate_sheets/516>`_,Polycarbonate,"Sheet, 3/8"", 12 x 21""",1,$33.12 ,$33.12 ,Front panel
+`TAP plastics <https://www.tapplastics.com/product/plastics/cut_to_size_plastic/polycarbonate_sheets/516>`_,Polycarbonate,"Polycarbonate sheet, 3/8"", 12 x 26""",1,$12 ,$12.00 ,Rear door
+`TAP plastics <https://www.tapplastics.com/product/plastics/cut_to_size_plastic/polycarbonate_sheets/516>`_,Polycarbonate,"Polycarbonate sheet, 3/8"", 12 x 8""",1,$12 ,$12.00 ,Rear panel
+`TAP plastics <https://www.tapplastics.com/product/plastics/cut_to_size_plastic/polycarbonate_sheets/516>`_,Polycarbonate,"Polycarbonate sheet, 3/8"", 12 x 26""",1,$12 ,$12.00 ,Neck plate A
+`TAP plastics <https://www.tapplastics.com/product/plastics/cut_to_size_plastic/polycarbonate_sheets/516>`_,Polycarbonate,"Polycarbonate sheet, 3/8"", 12 x 26""",1,$12 ,$12.00 ,Neck plate B
+`TAP plastics <https://www.tapplastics.com/product/plastics/cut_to_size_plastic/polycarbonate_sheets/516>`_,Polycarbonate,"Polycarbonate sheet, 3/8"", 12 x 26""",1,$12 ,$12.00 ,Neck plate C
+`Midwest Steel <https://www.midweststeelsupply.com/store/5052aluminumplate>`_,Aluminium 5052,"Polycarbonate sheet, 3/8"", 16 x 16""",1,$37.24 ,$37.24 ,Base panel
+`Midwest Steel <https://www.midweststeelsupply.com/store/5052aluminumplate>`_,Aluminium 5052,"Polycarbonate sheet, 3/8"", 11 x 26""",2,$48.70 ,$97.40 ,Side panels
+`Midwest Steel <https://www.midweststeelsupply.com/store/5052aluminumplate>`_,Aluminium 5052,"Polycarbonate sheet, 3/8"", 12 x 10""",1,$21.95 ,$21.95 ,Seat
+McMaster-Carr,,Hinge,1,,$0.00 ,
+McMaster-Carr,,Latch,2,,$0.00 ,
+McMaster-Carr,Stainless steel,"Stainless Steel, 5"" pull handles",2,$10.06 ,$20.12 ,Handles
+McMaster-Carr,,Thumb screws,5,,$0.00 ,
+McMaster-Carr,,Bolts,,,$0.00 ,
+McMaster-Carr,Aluminium 5086,"5086 Aluminum 2x2"" corner bracket, 11"" long",2,$28.73 ,$57.46 ,base brackets
+McMaster-Carr,Aluminium 5086,"5086 Aluminum 1x1"" corner bracket, 14"" long",2,$18.41 ,$36.82 ,front brackets
+McMaster-Carr,Aluminium 5086,"5086 Aluminum 1x1"" corner bracket, 14"" long",2,$18.41 ,$36.82 ,top brackets
+McMaster-Carr,,"5"" square stem casters",2,$24.25 ,$48.50 ,Wheels
+McMaster-Carr,,"5"" square stem casters with brakes",2,$35.86 ,$71.72 ,Wheels
+McMaster-Carr,,"1/4""-20 bolts, 3/8""",80,,$0.00 ,Fasteners
+8020,Anodized aluminium,"1010: t-slot profile, 14.5""",4,$5.29 ,$21.16 ,Frame struts
+8020,Anodized aluminium,"1010: t-slot profile, 16"" long",4,$5.63 ,$22.52 ,Frame struts
+8020,Anodized aluminium,"1010: t-slot profile, 15.5"" long",4,$5.51 ,$22.04 ,Frame struts
+8020,Anodized aluminium,4119: 2-hole inside corner bracket,8,$2.90 ,$23.20 ,Fasteners
+8020,Anodized aluminium,4151: 5-hole corner plate,8,$6.30 ,$50.40 ,Fasteners
+8020,Anodized aluminium,10 series t-slot nuts,80,$0.21 ,$16.80 ,Fasteners
+,,,,**TOTAL =**,$660.47 ,

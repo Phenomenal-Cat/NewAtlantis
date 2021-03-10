@@ -1,0 +1,36 @@
+.. MurphyLabs documentation master file, created by
+   sphinx-quickstart on Wed Sep 23 22:39:13 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Murphy Lab: Open-source Solutions for Neuroscience
+=====================================================
+
+.. image:: _images/Icons/Thingiverse.png
+  :width: 40
+  :align: left
+.. image:: _images/Icons/Vimeo.png
+  :width: 40
+  :align: left
+.. image:: _images/Icons/Github_w.png
+  :width: 40
+  :align: left
+
+
+.. toctree::
+   :maxdepth: 2
+
+   RestEasy - human chin rest <MLab_RestEasy_ChinRest>
+   PrimaThrone - NHP chair <MLab_NHP_EphysChair>
+   METHVEX - NHP head-free eye tracking <MLab_NHP_HeadMountEyeTrack.rst>
+   
+   
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
