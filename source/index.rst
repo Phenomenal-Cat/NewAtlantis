@@ -30,9 +30,9 @@
     :width: 40
     :target: https://gitlab.com/Phenomenal-Cat
 
-  ..image:: _images/Icons/GitHub_Icon.png
+  .. image:: _images/Icons/GitHub_Icon.png
     :height: 40
-    :target: 
+    :target: https://github.com/Phenomenal-Cat
 
   .. image:: _images/Icons/Thingiverse.png
     :width: 40
@@ -55,9 +55,6 @@
     :target: https://creativecommons.org/
 
 
-Resources
-------------
-
 .. |OS| image:: _images/Icons/osi_button.png
   :height: 30
   :target: https://opensource.org/
@@ -66,7 +63,7 @@ Resources
   :height: 30
   :target: https://www.oshwa.org/
 
-.. dropdown:: |OH| Open Hardware
+.. dropdown:: |OH| Open Hardware Projects
   :animate: fade-in
   :container: + shadow
   :title: bg-warning text-dark text-left font-weight-bold
@@ -74,7 +71,7 @@ Resources
 
   This is some hardware
   
-.. dropdown:: |OS| Open Software
+.. dropdown:: |OS| Open Software Projects
   :animate: fade-in
   :container: + shadow
   :title: bg-warning text-dark text-left font-weight-bold
@@ -84,7 +81,7 @@ Resources
 
 
 .. toctree::
-   :maxdepth: 2
+   :hidden:
 
    NA Hardware <NA_Hardware>
    NA Software <NA_Software>

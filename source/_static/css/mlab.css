@@ -126,7 +126,7 @@ div.document {
 }
 /* ========= Right page margin ==== */
 div.bodywrapper {
-    margin: 0px 0px 0px 300px;
+    margin: 0px 0px 0px 200px;
     background-color: var(--main-dk1);
 }
 /* ========= Left page margin ==== */
