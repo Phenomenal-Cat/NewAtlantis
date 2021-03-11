@@ -139,6 +139,7 @@ div.documentwrapper {
 div.body {
     color: var(--text-white);
     background-color: var(--main-dk2);
+    Width: 100%
 }
 
 /* ============== Contents panel ================ */

@@ -12,8 +12,13 @@
   ---
   :img-top: _images/Photos/GlassBrain_Cropcopy.png
   
-  |NAL|  
+  |NAL| 
   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  .. image:: _images/Photos/NMT_Brain_Decimated_2.png
+    :height: 150
+    :align: right
+    :class: no-scaled-link
 
   **Open-Source Solutions for Modern Neuroscience**
 
@@ -27,6 +32,10 @@
   .. image:: _images/Icons/GitHub_Icon.png
     :height: 30
     :target: https://github.com/Phenomenal-Cat
+
+  .. image:: _images/Logos/readthedocs_Icon.png
+    :height: 30 
+    :target: https://readthedocs.org/projects/newatlantis/
 
   .. image:: _images/Icons/Thingiverse.png
     :height: 30
@@ -61,6 +70,10 @@
   :height: 30
   :target: https://www.oshwa.org/
 
+.. |QM| image:: _images/Icons/Question-mark.png
+  :height: 30
+  :class: no-scaled-link
+
 .. dropdown:: |OH| Open Hardware Projects
   :animate: fade-in
   :container: + shadow
@@ -72,57 +85,76 @@
   .. panels::
     :container: container-lg pb-3
     :column: col-lg-4 col-md-4 col-sm-6 col-xs-12 p-2
-    :img-top-cls: p-2 bg-primary
+    :img-top-cls: p-0 bg-dark
+    :header: bg-white
     :body: bg-secondary
-    :footer: bg-warning
+    :footer: bg-secondary
 
     ---
-    :img-top: _images/Logos/RestEasy_w.svg
+    :img-top: _images/Designs/RestEasy/RestEasy_headerim.png
+
+    .. image:: _images/Logos/RestEasy_b.svg
+      :height: 40
+      :target: www.target.com
 
     ^^^^^^^^^^^^
-    An open-source chin rest for human psychophysics research.
+    A chin-rest design for head stabilization in human psychophysics research.
 
     +++++++
-    .. image:: _images/Icons/Thingiverse.png
-      :height: 30
-      :target: https://www.thingiverse.com/thing:2968729/files
     .. image:: _images/Logos/readthedocs_Icon.png
       :height: 30
-
-
-
-    ---
-    :img-top: _images/Logos/RestEasy_w.svg
-
-    ^^^^^^^^^^^^
-    An open-source chin rest for human psychophysics research.
-
-    +++++++
     .. image:: _images/Icons/Thingiverse.png
       :height: 30
       :target: https://www.thingiverse.com/thing:2968729/files
+    .. image:: _images/Logos/FreeCAD-logo.svg
+      :height: 35
+      :target: https://www.freecad.org
+
+
+    ---
+    :img-top: _images/Designs/PrimaThrone/NIF_MonkeyBox_front.png
+
+    .. image:: _images/Logos/RestEasy_w.svg
+      :height: 40
+      :target: www.target.com
+
+    ^^^^^^^^^^^^
+
+    Behavioral testing and functional imaging chairs for non-human primates.
+
+    +++++++
     .. image:: _images/Logos/readthedocs_Icon.png
       :height: 30
-
-
-    ---
-    :img-top: _images/Logos/RestEasy_w.svg
-
-    ^^^^^^^^^^^^
-    An open-source chin rest for human psychophysics research.
-
-    +++++++
     .. image:: _images/Icons/Thingiverse.png
       :height: 30
-      :align: right
       :target: https://www.thingiverse.com/thing:2968729/files
+    .. image:: _images/Logos/FreeCAD-logo.svg
+      :height: 35
+      :target: https://www.freecad.org
 
+    ---
+    :img-top: _images/Designs/METHVEX/METHVEx_30deg.png
+
+    .. image:: _images/Logos/RestEasy_w.svg
+      :height: 40
+      :target: www.target.com
+
+    ^^^^^^^^^^^^
+    Macaque Eye-Tracking for Head-free Visual Experiments.
+
+    +++++++
+    .. image:: _images/Logos/readthedocs_Icon.png
+      :height: 30
+    .. image:: _images/Icons/Thingiverse.png
+      :height: 30
+      :target: https://www.thingiverse.com/thing:2968729/files
 
   
 .. dropdown:: |OS| Open Software Projects
   :animate: fade-in
   :container: + shadow
-  :title: bg-warning text-dark text-left font-weight-bold p-2
+  :open:
+  :title: bg-warning text-dark text-left font-weight-bold p-2 font-size-h1
   :body: bg-dark text-left
 
   New Atlantis Laboratories' :link-badge:`https://opensource.org/, open software, cls=badge-success text-white` projects are hosted in publicly accessible online repositories on `GitLab <https://gitlab.com/Phenomenal-Cat>`_ and `GitHub <https://github.com/Phenomenal-Cat>`_, and licensed under the `GNU Public License (GPL3) <https://www.gnu.org/licenses/gpl-3.0.en.html>`_.
@@ -130,49 +162,126 @@
   .. panels::
     :container: container-lg pb-3
     :column: col-lg-4 col-md-4 col-sm-6 col-xs-12 p-2
-    :img-top-cls: p-2 bg-primary
-    :body: bg-secondary
+    :img-top-cls: p-0 bg-dark
+    :header: bg-white p-0 pl-3 pt-2
+    :body: bg-secondary p-0 pl-3 pt-2
+    :footer: bg-secondary
 
     ---
-    :img-top: _images/Logos/MF3D_Logo_white.svg
+    :img-top: _images/Photos/MF3D_CooCall.png
+
+    .. image:: _images/Logos/MF3D_Logo.png
+      :height: 60
+      :target: https://mf3d.readthedocs.io/
 
     ^^^^^^^^^^^^
-    `MF3D Tools <https://mf3d.readthedocs.io/en/latest/>`_
+    Virtual macaque monkey avatar :badge:`media,badge-warning` and :badge:`software, badge-success` tools for studying social processing in non-human primates.
 
     +++++++
-    Tail 1
+    .. image:: _images/Logos/readthedocs_Icon.png
+      :height: 30
+      :target: https://mf3d.readthedocs.io/
+    .. image:: _images/Icons/GitHub_Icon.png
+      :height: 30
+      :target: https://github.com/Phenomenal-Cat/MF3D-Tools
+    .. image:: _images/Logos/Blender_Icon.png
+      :height: 30
+      :target: http://www.blender.org
 
     ---
+    :img-top: _images/Photos/BrainSlice.png
 
-    .. image:: _images/Logos/MF3D_Logo_white.svg
-      :align: left
-      :height: 40
-      :target: https://mf3d.readthedocs.io/en/latest/
+    .. image:: _images/Logos/Ignition.png
+      :height: 60
+      :target: http://test.com
+
+    ^^^^^^^^^^^^
+    Image-Guided Neurosurgical Implantation Tools for Invasive Open Neuroscience
+
+    +++++++
+    .. image:: _images/Logos/readthedocs_Icon.png
+      :height: 30
+      :target: https://mf3d.readthedocs.io/
+    .. image:: _images/Icons/GitHub_Icon.png
+      :height: 30
+      :target: https://github.com/Phenomenal-Cat/IGNITION
+    .. image:: _images/Logos/Slicer_Icon.png
+      :height: 30
+      :target: http://www.slicer.org
 
     ---
+    :img-top: _images/Photos/NTB_GUImontage.png
 
-     .. image:: _images/Logos/MF3D_Logo_white.svg
-      :align: left
-      :height: 40
-      :target: https://mf3d.readthedocs.io/en/latest/
+    .. image:: _images/Logos/NTB_Logo_b.png
+      :height: 60
+      :target: http://test.com
+
+    ^^^^^^^^^^^^
+    Experimental control system for behavioral neuroscience
+
+    +++++++
+    .. image:: _images/Logos/readthedocs_Icon.png
+      :height: 30
+      :target: https://mf3d.readthedocs.io/
+    .. image:: _images/Logos/Octave_Icon.png
+      :height: 30
+      :target: https://www.gnu.org/software/octave/index
+    .. image:: _images/Logos/PTB_Icon.png
+      :height: 30
+      :target: http://psychtoolbox.org/
 
 
-
-About
----------
-
-.. panels::
-  :column: col-lg-12 p-0 border-0
-  :body: bg-secondary border-0
-  :header: pl-3 pr-3 bg-primary
-
+.. dropdown:: |QM| About
+  :animate: fade-in
+  :container: + shadow
+  :open:
+  :title: bg-warning text-dark text-left font-weight-bold p-2
+  :body: bg-dark text-left
 
   .. image:: _images/Photos/SirFrancisBacon.png
     :width: 20%
     :align: right
     :class: no-scaled-link
 
-  New Atlantis Labs takes its name from the `1626 utopian novel <https://en.wikipedia.org/wiki/New_Atlantis>`_ by Sir Francis Bacon, in which he described a fictitious island on which people held attitudes towards the free and open dissemination of knowledge that we refer to today as 'open science'.
+  New Atlantis Laboratories takes its name from the `1626 utopian novel <https://en.wikipedia.org/wiki/New_Atlantis>`_ by Sir Francis Bacon, in which he described a fictitious island where people held attitudes towards the free and open dissemination of knowledge that we refer to today as 'open science'.
+
+
+  .. image:: _images/Icons/Gitlab_button.png
+    :height: 30
+    :target: https://gitlab.com/Phenomenal-Cat
+
+  .. image:: _images/Icons/GitHub_Icon.png
+    :height: 30
+    :target: https://github.com/Phenomenal-Cat
+
+  .. image:: _images/Logos/readthedocs_Icon.png
+    :height: 30 
+    :target: https://readthedocs.org/projects/newatlantis/
+
+  .. image:: _images/Icons/Thingiverse.png
+    :height: 30
+    :target: https://www.thingiverse.com/phenomenalcat/designs
+
+  .. image:: _images/Icons/Vimeo.png
+    :height: 30
+    :class: no-scaled-link
+
+  .. image:: _images/Icons/osi_button.png
+    :height: 30
+    :target: https://opensource.org/
+
+  .. image:: _images/Icons/oshw_button.png
+    :height: 30
+    :target: https://www.oshwa.org/
+
+  .. image:: _images/Icons/CC_logo.png
+    :height: 30
+    :target: https://creativecommons.org/
+
+  .. image:: _images/Icons/License_GPLv3.png
+    :height: 30
+    :target: https://www.gnu.org/licenses/gpl-3.0.en.html
+
 
 
 .. toctree::
