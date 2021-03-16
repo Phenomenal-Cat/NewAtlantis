@@ -1,76 +1,85 @@
 .. _NA_Software
 
-================
-NA Resources
-================
+===============================
+|SW| Open Software
+===============================
 
-.. |HW| image:: _images/Icons/oshw_button.png
+New Atlantis Laboratories' :link-badge:`https://opensource.org/, open software, cls=badge-success text-white` projects are hosted in publicly accessible online repositories on `GitLab <https://gitlab.com/Phenomenal-Cat>`_ and `GitHub <https://github.com/Phenomenal-Cat>`_, and licensed under the `GNU Public License v3.0 (GPL3) <https://www.gnu.org/licenses/gpl-3.0.en.html>`_ , while the accompanying documentation is hosted on `ReadTheDocs <https://newatlantis.rtfd.io>`_ and licensed under `Creative Commons CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/>`_.
+
+.. image:: _images/Icons/Gitlab_button.png
   :height: 30
-  :target: https://www.oshwa.org/
+  :target: https://gitlab.com/Phenomenal-Cat
+
+.. image:: _images/Icons/GitHub_Icon.png
+  :height: 30
+  :target: https://github.com/Phenomenal-Cat
+
+.. image:: _images/Icons/License_GPLv3.png
+  :height: 30
+  :target: https://www.gnu.org/licenses/gpl-3.0.en.html
+
+.. image:: _images/Icons/CC.png
+  :height: 30
+  :target: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 .. |SW| image:: _images/Icons/osi_button.png
   :height: 30
   :target: https://opensource.org/
 
 
-|HW| Open Hardware
-----------------------
+Open Software Projects
+------------------------------
 
 .. panels::
   :column: col-lg-12 p-2 border-0
-  :body: bg-success
+  :header: bh-secondary
+  :body: bg-dark
    
-  .. image:: _images/Logos/RestEasy_w.svg
+  ---
+  .. image:: _images/Logos/MF3D_Logo.png
     :align: left
     :height: 40
+    :target: https://mf3d.readthedocs.io/
 
-  .. image:: _images/Icons/Thingiverse.png
+  .. image:: _images/Logos/readthedocs_Icon.png
     :height: 30
-    :align: right
-    :target: https://www.thingiverse.com/thing:2968729/files
-
-  An open-source chin rest for human psychophysics research.
-
-
-.. panels::
-  :column: col-lg-12 p-2 border-0
-  :body: bg-success
-
-  .. image:: _images/Logos/RestEasy_w.svg
-    :align: left
-    :height: 40
-
-  Transportation of laboratory animals.
-
-
-
-
-|SW| Open Software
-----------------------
-
-.. panels::
-  :column: col-lg-12 p-2 border-0
-  :body: bg-success
-   
-  .. image:: _images/Logos/RestEasy_w.svg
-    :align: left
-    :height: 40
-
-  .. image:: _images/Icons/Thingiverse.png
+    :target: https://mf3d.readthedocs.io/
+  .. image:: _images/Icons/GitHub_Icon.png
     :height: 30
-    :align: right
-    :target: https://www.thingiverse.com/thing:2968729/files
+    :target: https://github.com/Phenomenal-Cat/MF3D-Tools
+ .. image:: _images/Logos/Python_Icon.png
+    :height: 30
+    :target: https://www.python.org/
+  .. image:: _images/Logos/Blender_Icon.png
+    :height: 30
+    :target: http://www.blender.org
 
-  An open-source chin rest for human psychophysics research.
+
+  ---
+  .. image:: _images/Logos/Ignition.png
+    :align: left
+    :height: 40
+
+  .. image:: _images/Logos/readthedocs_Icon.png
+    :height: 30
+    :target: https://mf3d.readthedocs.io/
+  .. image:: _images/Icons/Gitlab_button.png
+    :height: 30
+    :target: https://gitlab.com/Phenomenal-Cat/IGNITION
+ .. image:: _images/Logos/Python_Icon.png
+    :height: 30
+    :target: https://www.python.org/
+  .. image:: _images/Logos/Slicer_Icon.png
+    :height: 30
+    :target: http://www.slicer.org
+
+    
 
 
-
-
-Contents
-----------
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
 
    RestEasy - human chin rest <MLab_RestEasy_ChinRest>
    PrimaThrone - NHP chair <MLab_NHP_EphysChair>
