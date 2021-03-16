@@ -38,7 +38,7 @@ extensions = [
     'recommonmark',
     'sphinx_inline_tabs',
     'sphinx_panels',
-    'sphinx_fontawesome',
+    # 'sphinx_fontawesome',
     # 'zot4rst.sphinx',
     'matplotlib.sphinxext.plot_directive',
 ]
