@@ -137,7 +137,7 @@
       :target: https://www.freecad.org
 
     ---
-    :img-top: _images/Designs/METHVEX/METHVEx_30deg.png
+    :img-top: _images/Designs/METHVEX/METHVEx_30deg_bw.png
 
     METHVEx
 
@@ -220,6 +220,10 @@
     ^^^^^^^^^^^^
     Virtual macaque monkey avatar media and software tools for studying social processing in non-human primates.
 
+    .. link-button:: https://mf3d.readthedocs.io
+      :text: 
+      :classes: stretched-link text-white
+
     +++++++
     .. image:: _images/Logos/readthedocs_Icon.png
       :height: 30
@@ -235,11 +239,11 @@
       :target: http://www.blender.org
 
     ---
-    :img-top: _images/Photos/BrainSlice.png
+    :img-top: _images/Photos/BrainSlice_bw.png
 
     .. image:: _images/Logos/Ignition.png
       :height: 60
-      :target: http://test.com
+      :target: https://gitlab.com/Phenomenal-Cat/IGNITION
 
     ^^^^^^^^^^^^
     Image-Guided Neurosurgical Implantation Tools for Invasive Open Neuroscience
@@ -268,10 +272,14 @@
     ^^^^^^^^^^^^
     Experimental control system for behavioral neuroscience
 
+    .. link-button:: https://ntb.rtfd.io
+      :text: 
+      :classes: stretched-link text-white
+
     +++++++
     .. image:: _images/Logos/readthedocs_Icon.png
       :height: 30
-      :target: https://mf3d.readthedocs.io/
+      :target: https://ntb.rtfd.io
     .. image:: _images/Icons/GitHub_Icon.png
       :height: 30
       :target: https://github.com/Phenomenal-Cat/NIF-Toolbar
@@ -283,7 +291,7 @@
       :target: http://psychtoolbox.org/
 
     ---
-    :img-top: _images/Designs/MultidriveDesigner/Murphy_microdrive1.png
+    :img-top: _images/Designs/MultidriveDesigner/Murphy_microdrive1_bw.png
 
     Multidrive Implant Designer for Anatomical Specificity (MIDAS)
 
