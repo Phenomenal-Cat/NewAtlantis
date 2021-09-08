@@ -1,3 +1,5 @@
+.. _NA_METHVEX:
+
 ====================================================================
 METHVEX - Monkey Eye Tracking for Head-free Visual Experiments
 ====================================================================
@@ -25,11 +27,7 @@ This poses several technical challenges:
 
 Many of the commercial video eye-tracking cameras intended to be head-mounted on human subjects are relatively large and heavy, thus obstructing the visual field and
 putting strain on the wearer. The open-source system from `Pupil Labs <https://pupil-labs.com/>`_ utilizes some of the smallest and lightest cameras available. Many
-of the camera specs are comparable to those of the industry standards (such as `SR Research's EyeLink <>`_) (see below and `here <https://doi.org/10.1101/536243>`__ for a more in depth comparison of performance), but the hardware are substantially smaller
-and lighter. This allows them to be discretely mounted below the eye
-with a direct line of sight - thus avoiding the need for cumbersome and
-delicate hot mirrors, while still minimizing occlusion of the subject's
-visual field.
+of the camera specs are comparable to those of the industry standards (such as `SR Research's EyeLink <https://www.sr-research.com/>`_) (see below and `Ehinger et al., 2019 <https://doi.org/10.7717/peerj.7086>`_ for a more in depth comparison of performance), but the hardware are substantially smaller and lighter. This allows them to be discretely mounted below the eye with a direct line of sight - thus avoiding the need for cumbersome and delicate hot mirrors, while still minimizing occlusion of the subject's visual field.
 
 +--------------------+------------------------+------------+
 |                    | SR Research EyeLink II | Pupil Labs |

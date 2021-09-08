@@ -97,7 +97,7 @@
     ---
     :img-top: _images/Designs/PrimaThrone/NIF_MonkeyBox_front.png
 
-    PrimaThrone (MRI)
+    **PrimaThrone (MRI)**
 
     ^^^^^^^^^^^^
 
@@ -116,7 +116,7 @@
     ---
     :img-top: _images/Designs/PrimaThrone/PrimaThrone_V1_crop.jpeg
 
-    PrimaThrone (E.phys)
+    **PrimaThrone (E.phys)**
 
     ^^^^^^^^^^^^
     Behavioral testing and electrophysiology chairs for non-human primates.
@@ -137,12 +137,17 @@
       :target: https://www.freecad.org
 
     ---
-    :img-top: _images/Designs/METHVEX/METHVEx_30deg_bw.png
+    :img-top: _images/Designs/METHVEX/METHVEx_30deg.png
 
-    METHVEx
+    **METHVEx**
 
     ^^^^^^^^^^^^
     Macaque Eye-Tracking for Head-free Visual Experiments.
+
+    .. link-button:: NA_METHVEX
+      :text: 
+      :type: ref
+      :classes: stretched-link text-white
 
     +++++++
     .. image:: _images/Logos/readthedocs_Icon.png
@@ -218,7 +223,7 @@
       :target: https://mf3d.readthedocs.io/
 
     ^^^^^^^^^^^^
-    Virtual macaque monkey avatar media and software tools for studying social processing in non-human primates.
+    Virtual macaque monkey avatar media and Blender software tools for studying social processing in non-human primates.
 
     .. link-button:: https://mf3d.readthedocs.io
       :text: 
@@ -246,7 +251,7 @@
       :target: https://gitlab.com/Phenomenal-Cat/IGNITION
 
     ^^^^^^^^^^^^
-    Image-Guided Neurosurgical Implantation Tools for Invasive Open Neuroscience
+    Image-Guided Neurosurgical Implantation Tools for Invasive Open Neuroscience. A Slicer module.
 
     +++++++
     .. image:: _images/Logos/readthedocs_Icon.png
@@ -267,7 +272,6 @@
 
     .. image:: _images/Logos/NTB_Logo_b.png
       :height: 60
-      :target: http://test.com
 
     ^^^^^^^^^^^^
     Experimental control system for behavioral neuroscience
@@ -291,12 +295,18 @@
       :target: http://psychtoolbox.org/
 
     ---
-    :img-top: _images/Designs/MultidriveDesigner/Murphy_microdrive1_bw.png
+    :img-top: _images/Designs/MultidriveDesigner/Murphy_microdrive1.png
 
-    Multidrive Implant Designer for Anatomical Specificity (MIDAS)
+    .. image:: _images/Logos/MIDAS_placeholder.png
+      :height: 60
 
     ^^^^^^^^^^^^
-    A FreeCAD workbench for designing custom cranial implant hardware, including multi-microdrive assemblies for chronic neural recordings.
+    Multidrive Implant Designer for Anatomical Specificity. A FreeCAD workbench for designing custom cranial implant hardware.
+
+    .. link-button:: NA_MIDAS
+      :type: ref
+      :text: 
+      :classes: stretched-link text-white
 
     +++++++
     .. image:: _images/Logos/readthedocs_Icon.png
@@ -355,6 +365,7 @@
 
 .. toctree::
    :hidden:
+   :maxdepth: 3
 
    NA Hardware <NA_Hardware>
    NA Software <NA_Software>

@@ -18,7 +18,7 @@ New Atlantis Laboratories' :link-badge:`https://opensource.org/, open software, 
   :height: 30
   :target: https://www.gnu.org/licenses/gpl-3.0.en.html
 
-.. image:: _images/Icons/CC.png
+.. image:: _images/Icons/CC_logo.png
   :height: 30
   :target: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
@@ -32,7 +32,7 @@ Open Software Projects
 
 .. panels::
   :column: col-lg-12 p-2 border-0
-  :header: bh-secondary
+  :header: bg-secondary
   :body: bg-dark
    
   ---
