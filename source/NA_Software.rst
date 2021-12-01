@@ -32,7 +32,7 @@ Open Software Projects
 
 .. panels::
   :column: col-lg-12 p-2 border-0
-  :header: bg-secondary
+  :header: bg-success text-dark text-bold
   :body: bg-dark
    
   ---
@@ -47,13 +47,15 @@ Open Software Projects
   .. image:: _images/Icons/GitHub_Icon.png
     :height: 30
     :target: https://github.com/Phenomenal-Cat/MF3D-Tools
- .. image:: _images/Logos/Python_Icon.png
+  .. image:: _images/Logos/Python_Icon.png
     :height: 30
     :target: https://www.python.org/
   .. image:: _images/Logos/Blender_Icon.png
     :height: 30
     :target: http://www.blender.org
 
+  ^^^^^
+  Some stuff...
 
   ---
   .. image:: _images/Logos/Ignition.png
@@ -66,21 +68,42 @@ Open Software Projects
   .. image:: _images/Icons/Gitlab_button.png
     :height: 30
     :target: https://gitlab.com/Phenomenal-Cat/IGNITION
- .. image:: _images/Logos/Python_Icon.png
+  .. image:: _images/Logos/Python_Icon.png
     :height: 30
     :target: https://www.python.org/
   .. image:: _images/Logos/Slicer_Icon.png
     :height: 30
     :target: http://www.slicer.org
 
-    
+  ^^^^^
+  More stuff...
 
+  ---
+  .. image:: _images/Logos/MIDAS_placeholder.png
+    :align: left
+    :height: 40
+
+  .. image:: _images/Logos/readthedocs_Icon.png
+    :height: 30
+    :target: https://mf3d.readthedocs.io/
+  .. image:: _images/Icons/GitHub_Icon.png
+    :height: 30
+    :target: https://github.com/Phenomenal-Cat/NIF-Toolbar
+  .. image:: _images/Logos/Python_Icon.png
+    :height: 30
+    :target: https://www.python.org/
+  .. image:: _images/Logos/FreeCAD-logo.svg
+    :height: 35
+    :target: https://www.freecad.org
+
+  ^^^^^
+  
 
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-
-   RestEasy - human chin rest <MLab_RestEasy_ChinRest>
-   PrimaThrone - NHP chair <MLab_NHP_EphysChair>
-   METHVEX - NHP head-free eye tracking <MLab_NHP_HeadMountEyeTrack.rst>
+   
+   IGNITION <NA_RestEasy>
+   NIF Toolbar <NA_EphysChair>
+   MIDAS <NA_MIDAS.rst>

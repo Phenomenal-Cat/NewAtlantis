@@ -46,7 +46,7 @@ Microwire Brush Array (MBA) Electrodes
 
 Microwire 'brush' array electrodes have been independently developed by multiple groups. However, the variety now commercially manufactured by `MicroProbes <https://microprobes.com/images/products/mc/mba/>`_ were originally developed at the University of Freiburg (`Bondar et al., 2009 <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0008222>`_; `Krüger et al., 2010 <https://doi.org/10.3389/fneng.2010.00006>`_). 
 
-The concept is to take a bundle of insulated microwires and insert them into the brain through a guide tube. As the electrode tip is lowered, the individual wires splay out in the tissue, allowing for stable isolation of extracellular spiking activity for a local population of neurons over long time periods (many months). Each microwire consists of a nickel-chromium-aluminum core of 12.5 µm diameter, insulated with polyimide by the manufacturer (‘IsaOhm’, Isabellenhuete, Germany). These electrodes are currently commercially available from `MicroProbes (MD) <https://microprobes.com/products/multichannel-arrays/mba>`_ in lengths from 2.5 mm to 120 mm. 
+The concept is to take a bundle of insulated microwires and insert them into the brain through a guide tube. As the electrode tip is lowered, the individual wires splay out in the tissue, allowing for stable isolation of extracellular spiking activity for a local population of neurons over long time periods (many months). Each microwire consists of a nickel-chromium-aluminum core of 12.5 µm diameter, insulated with polyimide by the manufacturer (`IsaOhm®, Isabellenhüete <https://www.isabellenhuette.de/en/precision-alloys/products/isaohmr>`_, Germany). These electrodes are currently commercially available from `MicroProbes (MD) <https://microprobes.com/products/multichannel-arrays/mba>`_ in lengths from 2.5 mm to 120 mm. 
 
 
 
@@ -150,6 +150,24 @@ Multidrive Surgical Implantation Procedure
 
 Surgery #1: Chamber implantation
 -----------------------------------
+
+.. panels:: 
+  :column: col-lg-12 p-0 m-0
+  :body: bg-dark text-justify text-light
+
+    .. tab:: 1. Place screws
+
+      .. image:: _images/Designs/MultidriveDesigner/ChamberEditing_FreeCAD/Slide2.png
+        :align: right
+        :width: 100%
+
+      - 
+
+    .. tab:: 2. Place ground wire
+
+
+    .. tab:: 3. Attach cap
+
 
 
 .. dropdown:: Surgery 1 Tools and Materials
