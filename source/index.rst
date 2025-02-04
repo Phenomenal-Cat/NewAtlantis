@@ -49,17 +49,6 @@
     :height: 30
     :target: https://github.com/Phenomenal-Cat
 
-  .. image:: _images/Logos/readthedocs_Icon.png
-    :height: 30 
-    :target: https://readthedocs.org/projects/newatlantis/
-
-  .. image:: _images/Icons/Thingiverse.png
-    :height: 30
-    :target: https://www.thingiverse.com/phenomenalcat/designs
-
-  .. image:: _images/Icons/Vimeo.png
-    :height: 30
-    :class: no-scaled-link
 
 
 .. |OS| image:: _images/Icons/osi_button.png
@@ -73,6 +62,118 @@
 .. |QM| image:: _images/Icons/Question-mark.png
   :height: 30
   :class: no-scaled-link
+
+
+
+
+.. _NA_SoftwareDropdown:
+  
+.. dropdown:: |OS| Open Software Projects
+  :animate: fade-in
+  :container: + shadow
+  :open:
+  :title: bg-warning text-dark text-left font-weight-bold p-2 font-size-h1
+  :body: bg-dark text-left
+  
+  .. panels::
+    :container: container-lg pb-3
+    :column: col-lg-4 col-md-4 col-sm-6 col-xs-12 p-2
+    :img-top-cls: p-0 bg-dark
+    :header: bg-white text-dark text-bold p-0 pl-3 pt-2
+    :body: bg-dark
+    :footer: bg-dark
+
+    ---
+    :img-top: _images/Photos/MF3D_CooCall.png
+
+    .. image:: _images/Logos/MF3D_Logo.png
+      :height: 60
+      :target: https://mf3d.readthedocs.io/
+
+    ^^^^^^^^^^^^
+    Virtual macaque monkey avatar data and `Blender <www.blender.org>`_ software tools for studying social processing in non-human primates.
+
+    .. link-button:: https://mf3d.readthedocs.io
+      :text: 
+      :classes: stretched-link text-white
+
+    +++++++
+    .. image:: _images/Logos/readthedocs_Icon.png
+      :height: 30
+      :target: https://mf3d.readthedocs.io/
+    .. image:: _images/Icons/GitHub_Icon.png
+      :height: 30
+      :target: https://github.com/Phenomenal-Cat/MF3D-Tools
+    .. image:: _images/Logos/Python_Icon.png
+      :height: 30
+      :target: https://www.python.org/
+    .. image:: _images/Logos/Blender_Icon.png
+      :height: 30
+      :target: http://www.blender.org
+    .. image:: _images/Icons/License_GPLv3.png
+      :height: 30
+      :target: https://www.gnu.org/licenses/gpl-3.0.en.html
+
+    ---
+    :img-top: _images/Photos/BrainSlice_bw.png
+
+    .. image:: _images/Logos/Ignite_v1.png
+      :height: 60
+      :target: https://py-ignite.readthedocs.io/
+
+    ^^^^^^^^^^^^
+    Image-Guided Neurosurgical Implantation Targeting Extensions, are a suite of Python scripts and macros for various open-source software related to analysis of medical imaging (`Slicer <www.slicer.org>`_) and computer aided design (`FreeCAD <www.freecad.org>`_).
+
+    +++++++
+    .. image:: _images/Logos/readthedocs_Icon.png
+      :height: 30
+      :target: https://py-ignite.readthedocs.io/
+    .. image:: _images/Icons/GitHub_Icon.png
+      :height: 30
+      :target: https://github.com/Phenomenal-Cat/IGNITE
+    .. image:: _images/Logos/Python_Icon.png
+      :height: 30
+      :target: https://www.python.org/
+    .. image:: _images/Logos/Slicer_Icon.png
+      :height: 30
+      :target: http://www.slicer.org
+    .. image:: _images/Icons/License_GPLv3.png
+      :height: 30
+      :target: https://www.gnu.org/licenses/gpl-3.0.en.html
+
+    ---
+    :img-top: _images/Photos/NTB_GUImontage.png
+
+    .. image:: _images/Logos/NTB_Logo_b.png
+      :height: 60
+
+    ^^^^^^^^^^^^
+    Graphical user interfaces and convenience functions for Matlab / `Octave <https://octave.org/>`_ -based experimental control system for behavioral neuroscience.
+
+    .. link-button:: https://psychtoolbar.rtfd.io
+      :text: 
+      :classes: stretched-link text-white
+
+    +++++++
+    .. image:: _images/Logos/readthedocs_Icon.png
+      :height: 30
+      :target: https://psychtoolbar.rtfd.io
+    .. image:: _images/Icons/GitHub_Icon.png
+      :height: 30
+      :target: https://github.com/Phenomenal-Cat/PsychToolbar
+    .. image:: _images/Logos/Octave_Icon.png
+      :height: 30
+      :target: https://www.gnu.org/software/octave/index
+    .. image:: _images/Logos/PTB_Icon.png
+      :height: 30
+      :target: http://psychtoolbox.org/
+    .. image:: _images/Icons/License_GPLv3.png
+      :height: 30
+      :target: https://www.gnu.org/licenses/gpl-3.0.en.html
+
+
+
+
 
 .. _NA_HardwareDropdown:
 
@@ -191,137 +292,6 @@
 
 
 
-.. _NA_SoftwareDropdown:
-  
-.. dropdown:: |OS| Open Software Projects
-  :animate: fade-in
-  :container: + shadow
-  :open:
-  :title: bg-warning text-dark text-left font-weight-bold p-2 font-size-h1
-  :body: bg-dark text-left
-
-  New Atlantis Laboratories' :link-badge:`NA_Software, open software, ref, cls=badge-success text-white` projects are hosted in publicly accessible online repositories on `GitLab <https://gitlab.com/Phenomenal-Cat>`_ and `GitHub <https://github.com/Phenomenal-Cat>`_, and licensed under the copyleft `GNU Public License v3.0 (GPL3) <https://www.gnu.org/licenses/gpl-3.0.en.html>`_.
-
-  .. image:: _images/Icons/License_GPLv3.png
-    :height: 30
-    :target: https://www.gnu.org/licenses/gpl-3.0.en.html
-
-  
-  .. panels::
-    :container: container-lg pb-3
-    :column: col-lg-3 col-md-4 col-sm-6 col-xs-12 p-2
-    :img-top-cls: p-0 bg-dark
-    :header: bg-white text-dark text-bold p-0 pl-3 pt-2
-    :body: bg-dark
-    :footer: bg-dark
-
-    ---
-    :img-top: _images/Photos/MF3D_CooCall.png
-
-    .. image:: _images/Logos/MF3D_Logo.png
-      :height: 60
-      :target: https://mf3d.readthedocs.io/
-
-    ^^^^^^^^^^^^
-    Virtual macaque monkey avatar media and Blender software tools for studying social processing in non-human primates.
-
-    .. link-button:: https://mf3d.readthedocs.io
-      :text: 
-      :classes: stretched-link text-white
-
-    +++++++
-    .. image:: _images/Logos/readthedocs_Icon.png
-      :height: 30
-      :target: https://mf3d.readthedocs.io/
-    .. image:: _images/Icons/GitHub_Icon.png
-      :height: 30
-      :target: https://github.com/Phenomenal-Cat/MF3D-Tools
-    .. image:: _images/Logos/Python_Icon.png
-      :height: 30
-      :target: https://www.python.org/
-    .. image:: _images/Logos/Blender_Icon.png
-      :height: 30
-      :target: http://www.blender.org
-
-    ---
-    :img-top: _images/Photos/BrainSlice_bw.png
-
-    .. image:: _images/Logos/Ignition.png
-      :height: 60
-      :target: https://gitlab.com/Phenomenal-Cat/IGNITION
-
-    ^^^^^^^^^^^^
-    Image-Guided Neurosurgical Implantation Tools for Invasive Open Neuroscience. A Slicer module.
-
-    +++++++
-    .. image:: _images/Logos/readthedocs_Icon.png
-      :height: 30
-      :target: https://mf3d.readthedocs.io/
-    .. image:: _images/Icons/Gitlab_button.png
-      :height: 30
-      :target: https://gitlab.com/Phenomenal-Cat/IGNITION
-    .. image:: _images/Logos/Python_Icon.png
-      :height: 30
-      :target: https://www.python.org/
-    .. image:: _images/Logos/Slicer_Icon.png
-      :height: 30
-      :target: http://www.slicer.org
-
-    ---
-    :img-top: _images/Photos/NTB_GUImontage.png
-
-    .. image:: _images/Logos/NTB_Logo_b.png
-      :height: 60
-
-    ^^^^^^^^^^^^
-    Experimental control system for behavioral neuroscience
-
-    .. link-button:: https://ntb.rtfd.io
-      :text: 
-      :classes: stretched-link text-white
-
-    +++++++
-    .. image:: _images/Logos/readthedocs_Icon.png
-      :height: 30
-      :target: https://ntb.rtfd.io
-    .. image:: _images/Icons/GitHub_Icon.png
-      :height: 30
-      :target: https://github.com/Phenomenal-Cat/NIF-Toolbar
-    .. image:: _images/Logos/Octave_Icon.png
-      :height: 30
-      :target: https://www.gnu.org/software/octave/index
-    .. image:: _images/Logos/PTB_Icon.png
-      :height: 30
-      :target: http://psychtoolbox.org/
-
-    ---
-    :img-top: _images/Designs/MultidriveDesigner/Murphy_microdrive1.png
-
-    .. image:: _images/Logos/MIDAS_placeholder.png
-      :height: 60
-
-    ^^^^^^^^^^^^
-    Multidrive Implant Designer for Anatomical Specificity. A FreeCAD workbench for designing custom cranial implant hardware.
-
-    .. link-button:: NA_MIDAS
-      :type: ref
-      :text: 
-      :classes: stretched-link text-white
-
-    +++++++
-    .. image:: _images/Logos/readthedocs_Icon.png
-      :height: 30
-      :target: https://mf3d.readthedocs.io/
-    .. image:: _images/Icons/GitHub_Icon.png
-      :height: 30
-      :target: https://github.com/Phenomenal-Cat/NIF-Toolbar
-    .. image:: _images/Logos/Python_Icon.png
-      :height: 30
-      :target: https://www.python.org/
-    .. image:: _images/Logos/FreeCAD-logo.svg
-      :height: 35
-      :target: https://www.freecad.org
-
 
 .. dropdown:: |QM| About
   :animate: fade-in
@@ -367,6 +337,7 @@
    :hidden:
    :maxdepth: 3
 
-   NA Hardware <NA_Hardware>
-   NA Software <NA_Software>
+   Software <NA_Software>
+   Hardware <NA_Hardware>
+   
    
