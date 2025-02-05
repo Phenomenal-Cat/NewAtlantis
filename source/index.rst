@@ -24,6 +24,22 @@
 
   New Atlantis Laboratories develops open-source :link-badge:`NA_SoftwareDropdown, software, ref, badge-success` and :link-badge:`NA_HardwareDropdown, hardware, ref, badge-info` designs for the neuroscience research community with the goal of accelerating scientific discovery. Conducting novel scientific research often requires the development of custom tools to address specific needs for which there are no commercially available solutions. Accessible, well documented, open-source solutions that permit sharing and modification provide researchers with more developed starting points, and are therefore critical to improving research efficiency. New Atlantis strives to assist the research community through the free and open distribution of knowledge and resources.
 
+.. carousel::
+    :show_controls:
+
+    .. image:: _images/Photos/BrainSlice_bw.png
+      :target: https://py-ignite.rtfd.io/
+
+
+    .. figure:: _images/Photos/MF3D_CooCall.png
+      :target: https://mf3d.readthedocs.io/
+
+        MF3D
+
+        Virtual macaque monkey avatar data and `Blender <www.blender.org>`_ software tools for studying social processing in non-human primates.
+
+
+
 
   .. image:: _images/Icons/osi_button.png
     :height: 30
