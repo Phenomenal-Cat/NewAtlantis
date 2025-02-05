@@ -1,4 +1,5 @@
-Sphinx==3.4.1
+Sphinx>5.0
+Jinja2
 Pygments
 Sphinx
 alabaster
@@ -9,5 +10,8 @@ recommonmark
 sphinxcontrib-bibtex
 sphinx-inline-tabs
 sphinx_panels
+spinx-design
 matplotlib
 numpy
+matplotlib
+sphinx-copybutton
