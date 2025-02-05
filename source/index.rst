@@ -18,7 +18,7 @@
 
   **Open-Source Solutions for Modern Neuroscience**
 
-  New Atlantis Laboratories develops open-source :bdg-ref-success:`software <NA_SoftwareDropdown>` and :bdg-ref-info:`hardware <NA_HardwareDropdown>` designs for the neuroscience research community with the goal of accelerating scientific discovery. Conducting novel scientific research often requires the development of custom tools to address specific needs for which there are no commercially available solutions. Accessible, well documented, open-source solutions that permit sharing and modification provide researchers with more developed starting points, and are therefore critical to improving research efficiency. New Atlantis strives to assist the research community through the free and open distribution of knowledge and resources.
+  New Atlantis Laboratories develops open-source :bdg-ref-success:`software <NA_SoftwareDropdown>` extensions and :bdg-ref-info:`hardware <NA_HardwareDropdown>` designs, primarily for the cognitive neuroscience research community, with the goal of accelerating scientific discovery. Conducting novel scientific research often requires the development of custom tools to address specific needs for which there are no commercially available solutions. Accessible, well documented, open-source solutions that permit sharing and modification provide researchers with more developed starting points, and are therefore critical to improving research efficiency. New Atlantis strives to assist the research community through the free and open distribution of knowledge and resources.
 
   .. image:: _images/Icons/osi_button.png
     :height: 30
@@ -70,6 +70,7 @@
         :show_controls:
         :show_indicators:
         :show_captions_below:
+        :data-bs-interval: 2
 
         .. figure:: _images/Photos/MF3D_CooCall_copy.png
           :target: https://mf3d.readthedocs.io/
@@ -101,7 +102,6 @@
 .. dropdown:: |OS| Open Software Projects
   :animate: fade-in
   :open:
-  :color: warning
   :class-title: bg-warning text-dark text-left font-weight-bold p-2 font-size-h1
   :class-body: bg-dark text-left
   
