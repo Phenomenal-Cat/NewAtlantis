@@ -10,7 +10,7 @@ recommonmark
 sphinxcontrib-bibtex
 sphinx-inline-tabs
 sphinx_panels
-spinx-design
+sphinx-design
 matplotlib
 numpy
 matplotlib
