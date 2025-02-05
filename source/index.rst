@@ -2,15 +2,11 @@
   :height: 60
   :class: no-scaled-link
 
-.. panels::
-  :card: shadow
-  :img-top-cls: p-0 
-  :column: col-lg-12 p-0 border-0
-  :body: bg-dark
-  :header: pl-4 pr-4 bg-primary
-  
-  ---
+.. card::
   :img-top: _images/Photos/GlassBrain_Cropcopy.png
+  :margin: 0
+  :class-card: bg-dark
+  :class-header: bg-primary  
   
   |NAL| 
   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -22,24 +18,7 @@
 
   **Open-Source Solutions for Modern Neuroscience**
 
-  New Atlantis Laboratories develops open-source :link-badge:`NA_SoftwareDropdown, software, ref, badge-success` and :link-badge:`NA_HardwareDropdown, hardware, ref, badge-info` designs for the neuroscience research community with the goal of accelerating scientific discovery. Conducting novel scientific research often requires the development of custom tools to address specific needs for which there are no commercially available solutions. Accessible, well documented, open-source solutions that permit sharing and modification provide researchers with more developed starting points, and are therefore critical to improving research efficiency. New Atlantis strives to assist the research community through the free and open distribution of knowledge and resources.
-
-.. carousel::
-    :show_controls:
-
-    .. image:: _images/Photos/BrainSlice_bw.png
-      :target: https://py-ignite.rtfd.io/
-
-
-    .. figure:: _images/Photos/MF3D_CooCall.png
-      :target: https://mf3d.readthedocs.io/
-
-        MF3D
-
-        Virtual macaque monkey avatar data and `Blender <www.blender.org>`_ software tools for studying social processing in non-human primates.
-
-
-
+  New Atlantis Laboratories develops open-source :bdg-ref-success:`software <NA_SoftwareDropdown>` and :bdg-ref-info:`hardware <NA_HardwareDropdown>` designs for the neuroscience research community with the goal of accelerating scientific discovery. Conducting novel scientific research often requires the development of custom tools to address specific needs for which there are no commercially available solutions. Accessible, well documented, open-source solutions that permit sharing and modification provide researchers with more developed starting points, and are therefore critical to improving research efficiency. New Atlantis strives to assist the research community through the free and open distribution of knowledge and resources.
 
   .. image:: _images/Icons/osi_button.png
     :height: 30
@@ -57,15 +36,6 @@
     :height: 30
     :target: https://www.gnu.org/licenses/gpl-3.0.en.html
 
-  .. image:: _images/Icons/Gitlab_button.png
-    :height: 30
-    :target: https://gitlab.com/Phenomenal-Cat
-
-  .. image:: _images/Icons/GitHub_Icon.png
-    :height: 30
-    :target: https://github.com/Phenomenal-Cat
-
-
 
 .. |OS| image:: _images/Icons/osi_button.png
   :height: 30
@@ -80,16 +50,60 @@
   :class: no-scaled-link
 
 
+.. grid:: 2
+
+  .. grid-item-card:: Software Extensions
+    :columns: 6
+    :padding: 0
+    :margin: 0
+
+
+    New Atlantis software extensions build upon mature, open-source softwares that have already been serving the research communiy for decades. 
+
+
+  .. grid-item-card:: 
+    :columns: 6
+    :padding: 0
+    :margin: 0
+
+    .. carousel::
+        :show_controls:
+        :show_indicators:
+        :show_captions_below:
+
+        .. figure:: _images/Photos/MF3D_CooCall_copy.png
+          :target: https://mf3d.readthedocs.io/
+
+          MF3D
+
+          Virtual macaque monkey avatar data and `Blender <www.blender.org>`_ software tools for studying social processing in non-human primates.
+
+          
+        .. figure:: _images/Screenshots/Slicer_ExampleChamber.png
+          :target: https://py-ignite.rtfd.io/
+
+          IGNITE (Image-Guided Neural Implantation Targeting Extensions)
+
+          Python scripts and macros for various open-source software related to analysis of medical imaging (`Slicer <www.slicer.org>`_) and computer aided design (`FreeCAD <www.freecad.org>`_).
+
+        .. figure:: _images/Screenshots/PsychToolbar_DisplayMockUp.png
+          :target: https://psychtoolbar.rtfd.io/
+
+          PsychToolbar
+
+          Graphical user interfaces and convenience functions for Matlab / `Octave <https://octave.org/>`_ -based experimental control system for behavioral neuroscience.
+
+
 
 
 .. _NA_SoftwareDropdown:
   
 .. dropdown:: |OS| Open Software Projects
   :animate: fade-in
-  :container: + shadow
   :open:
-  :title: bg-warning text-dark text-left font-weight-bold p-2 font-size-h1
-  :body: bg-dark text-left
+  :color: warning
+  :class-title: bg-warning text-dark text-left font-weight-bold p-2 font-size-h1
+  :class-body: bg-dark text-left
   
   .. panels::
     :container: container-lg pb-3
@@ -195,10 +209,8 @@
 
 .. dropdown:: |OH| Open Hardware Projects
   :animate: fade-in
-  :container: + shadow
-  :open:
-  :title: bg-warning text-dark text-left font-weight-bold p-2
-  :body: bg-dark text-left
+  :class-title: bg-warning text-dark text-left font-weight-bold p-2
+  :class-body: bg-dark text-left
 
   New Atlantis Laboratories' :link-badge:`NA_Hardware, open hardware, ref, cls=badge-info text-white` projects are hosted on `Thingiverse <https://www.thingiverse.com/phenomenalcat/designs>`_ and licensed under the permissive `CERN open-hardware 2.0 <CERN-OHL-P>`_ license, while the accompanying documentation is hosted here on `ReadTheDocs <https://newatlantis.rtfd.io>`_ and licensed under `Creative Commons CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/>`_.
 
@@ -311,10 +323,9 @@
 
 .. dropdown:: |QM| About
   :animate: fade-in
-  :container: + shadow
   :open:
-  :title: bg-warning text-dark text-left font-weight-bold p-2
-  :body: bg-dark text-left
+  :class-title: bg-warning text-dark text-left font-weight-bold p-2
+  :class-body: bg-dark text-left
 
   .. image:: _images/Photos/SirFrancisBacon.png
     :width: 20%
@@ -353,7 +364,7 @@
    :hidden:
    :maxdepth: 3
 
-   Software <NA_Software>
-   Hardware <NA_Hardware>
+   Software Projects <NA_Software>
+   Hardware Projects <NA_Hardware>
    
    

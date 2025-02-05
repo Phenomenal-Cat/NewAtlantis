@@ -20,7 +20,7 @@ sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'NewAtlatis'
+project = 'New Atlantis'
 now = datetime.datetime.now()       # Get current date
 author = 'New Atlantis Labs'
 copyright = '%d, %s' % (now.year, author)
@@ -84,6 +84,7 @@ html_static_path = ['_static']
 #
 
 html_sidebars = { '**': ['globaltoc.html', 'relations.html', 'sourcelink.html', 'searchbox.html'] }
+
 
 
 # Custom CSS
