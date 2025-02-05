@@ -174,7 +174,7 @@
     ---
     :img-top: _images/Photos/NTB_GUImontage.png
 
-    .. image:: _images/Logos/NTB_Logo_b.png
+    .. image:: _images/Logos/PTB_Logo_b.png
       :height: 60
 
     ^^^^^^^^^^^^
