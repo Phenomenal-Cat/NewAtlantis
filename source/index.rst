@@ -58,7 +58,7 @@
     :margin: 0
 
 
-    New Atlantis software extensions build upon mature, open-source softwares that have already been serving the research communiy for decades. 
+    New Atlantis software extensions build upon mature, open-source software that have already been serving the research community for decades. 
 
 
   .. grid-item-card:: 
@@ -70,7 +70,7 @@
         :show_controls:
         :show_indicators:
         :show_captions_below:
-        :data-bs-interval: 2
+        :data-bs-interval: 5
 
         .. figure:: _images/Photos/MF3D_CooCall_copy.png
           :target: https://mf3d.readthedocs.io/
@@ -145,7 +145,7 @@
       :target: https://www.gnu.org/licenses/gpl-3.0.en.html
 
     ---
-    :img-top: _images/Photos/BrainSlice_bw.png
+    :img-top: _images/Photos/BrainSlice.png
 
     .. image:: _images/Logos/Ignite_v1.png
       :height: 60
