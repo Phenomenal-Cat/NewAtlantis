@@ -7,11 +7,11 @@ commonmark
 cycler
 docutils
 recommonmark
+numpy
+matplotlib
 sphinxcontrib-bibtex
 sphinx-inline-tabs
 sphinx_panels
 sphinx-design
-matplotlib
-numpy
-matplotlib
 sphinx-copybutton
+sphinx-carousel
