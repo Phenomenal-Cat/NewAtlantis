@@ -58,7 +58,7 @@
     :margin: 0
 
 
-    New Atlantis software extensions build upon mature, open-source software that have already been serving the research community for decades. 
+    New Atlantis software extensions build upon mature, open-source software that have already been serving the research community for decades, and provide:
 
     - :fa:`display` refined **graphical user interfaces**
     - :fab:`windows` :fab:`apple` :fab:`linux` **cross-platform** support
@@ -76,7 +76,7 @@
         :show_controls:
         :show_indicators:
         :show_captions_below:
-        :data-bs-interval: 30
+        :data-bs-interval: 5000
 
         .. figure:: _images/Photos/MF3D_CooCall_copy.png
           :target: https://mf3d.readthedocs.io/
