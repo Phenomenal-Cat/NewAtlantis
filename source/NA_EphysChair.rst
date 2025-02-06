@@ -1,4 +1,4 @@
-.. _NA_EphysChair:
+.. _NA_PrimaThrone:
 
 =============================
 PrimaThrone
@@ -98,3 +98,13 @@ Bill of materials
   :header-rows: 1
   :widths: auto
   :align: left
+
+
+
+.. _NA_PrimaThroneMRI:
+
+
+PrimaThrone MRI
+==========================
+
+

@@ -1,4 +1,4 @@
-.. _NA_Hardware
+.. _NA_Hardware:
 
 .. |HW| image:: _images/Icons/oshw_button.png
   :height: 30
@@ -12,43 +12,48 @@
 |HW| Open Hardware
 ====================
 
-New Atlantis Laboratories' :link-badge:`NA_Hardware, open hardware, ref, cls=badge-info text-white` projects are hosted on `Thingiverse <https://www.thingiverse.com/phenomenalcat/designs>`_ and licensed under the permissive `CERN open-hardware 2.0 <CERN-OHL-P>`_ license, while the accompanying documentation is hosted here on `ReadTheDocs <https://newatlantis.rtfd.io>`_ and licensed under `Creative Commons CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/>`_.
+New Atlantis Laboratories' :bdg-info:`open hardware` projects are hosted on `Thingiverse <https://www.thingiverse.com/phenomenalcat/designs>`_ and licensed under the permissive `CERN open-hardware 2.0 <CERN-OHL-P>`_ license, while the accompanying documentation is hosted here on `ReadTheDocs <https://newatlantis.rtfd.io>`_ and licensed under `Creative Commons CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/>`_.
 
-Open Hardware Projects
+
+Hardware Categories
 ----------------------------
 
+.. grid:: 3
 
-.. panels::
-  :column: col-lg-12 p-2 border-0
-  :header: bg-info text-dark text-bold
-  :body: bg-dark
-   
+  .. grid-item-card:: 
+    :img-top: _images/Designs/RestEasy/RestEasy_headerim.png
+    :class-header: sd-bg-primary
+    :class-footer: sd-bg-dark
 
-  ---
-  .. image:: _images/Logos/RestEasy_w.svg
-    :align: left
-    :height: 40
+    :fas:`person` **Human Behavioural Experiments**
 
-  .. image:: _images/Icons/Thingiverse.png
-    :height: 30
-    :align: right
-    :target: https://www.thingiverse.com/thing:2968729/files
+    ^^^^^^^^^^^^
+
+    Hardware projects to support cognitive and psychophysical behavioural experiments in human subjects.
 
 
-  **An open-source chin rest for human psychophysics research.**
+  .. grid-item-card:: 
+    :img-top: _images/Designs/PrimaThrone/NIF_MonkeyBox_front.png
+    :class-header: sd-bg-primary
+    :class-footer: sd-bg-dark
 
-  ^^^^^^^^^^^^
-
-  Some stuff...
-
-  ---
-
-  **Transportation of laboratory animals.**
+    :fa:`paw` **Animal Behavioural Experiments**
  
-  ^^^^^^^^^^^^
+    ^^^^^^^^^^^^
 
-  More stuff...
+    Hardware projects to support behavioural experiments in animal subjects.
 
+
+  .. grid-item-card:: 
+    :img-top: _images/Photos/MF3D_CooCall.png
+    :class-header: sd-bg-primary
+    :class-footer: sd-bg-dark
+
+    **Miscellaneous**
+ 
+    ^^^^^^^^^^^^
+
+    Other hardware projects.
 
 
 .. toctree::
