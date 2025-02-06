@@ -63,7 +63,7 @@
     New Atlantis software extensions build upon mature, open-source software that have already been serving the research community for decades, and provide:
 
     - :fa:`display` refined **graphical user interfaces**
-    - :fa:`windows` :fa:`apple` :fa:`linux` **cross-platform** support
+    - :fab:`windows` :fab:`apple` :fab:`linux` **cross-platform** support
     - :fa:`book` comprehensive online **documentation**
     - :fa:`comments` large and active online **user communities**
     - :fa:`graduation-cap` plentiful online **tutorials** and learning resources
@@ -235,10 +235,9 @@ New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` proje
 
 
 
-.. dropdown:: About
+.. dropdown:: :fa:`circle-info` About
   :margin: 2 2 0 0
   :animate: fade-in
-  :icon: info
   :open:
   :color: warning
   :class-title: sd-bg-warning sd-text-dark sd-text-left sd-font-weight-bold p-2

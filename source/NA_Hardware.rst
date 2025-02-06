@@ -12,7 +12,7 @@
 |HW| Open Hardware
 ====================
 
-New Atlantis Laboratories' :bdg-info:`open hardware` projects are hosted on `Thingiverse <https://www.thingiverse.com/phenomenalcat/designs>`_ and licensed under the permissive `CERN open-hardware 2.0 <CERN-OHL-P>`_ license, while the accompanying documentation is hosted here on `ReadTheDocs <https://newatlantis.rtfd.io>`_ and licensed under `Creative Commons CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/>`_.
+New Atlantis Laboratories' :bdg-info:`open hardware` projects are hosted on `Thingiverse <https://www.thingiverse.com/phenomenalcat/designs>`_ and licensed under the permissive :fa:`unlock` `CERN open-hardware 2.0 <CERN-OHL-P>`_ license, while the accompanying documentation is hosted here on `ReadTheDocs <https://newatlantis.rtfd.io>`_ and licensed under `Creative Commons CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/>`_.
 
 
 Hardware Categories
