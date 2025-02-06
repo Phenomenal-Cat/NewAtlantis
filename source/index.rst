@@ -60,6 +60,12 @@
 
     New Atlantis software extensions build upon mature, open-source software that have already been serving the research community for decades. 
 
+    - :fa:`display` refined **graphical user interfaces**
+    - :fab:`windows` :fab:`apple` :fab:`linux` **cross-platform** support
+    - :fa:`book` comprehensive online **documentation**
+    - :fa:`comments` large and active online **user communities**
+    - :fa:`graduation-cap` plentiful online **tutorials** and learning resources
+
 
   .. grid-item-card:: 
     :columns: 6
@@ -70,7 +76,7 @@
         :show_controls:
         :show_indicators:
         :show_captions_below:
-        :data-bs-interval: 5
+        :data-bs-interval: 30
 
         .. figure:: _images/Photos/MF3D_CooCall_copy.png
           :target: https://mf3d.readthedocs.io/
