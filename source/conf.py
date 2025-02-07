@@ -41,6 +41,7 @@ extensions = [
     'sphinx_design',
     'matplotlib.sphinxext.plot_directive',
     'sphinx_carousel.carousel',
+    #'sphinx.ext.intersphinx',
 ]
 
 # Add any paths that contain templates here, relative to this directory.

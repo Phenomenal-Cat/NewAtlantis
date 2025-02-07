@@ -55,22 +55,24 @@
 
   .. grid-item-card:: 
     :class-body: p-1
+    :class-card: p-1
     :margin: 0
     :class-header: sd-bg-primary sd-font-weight-bold
 
-    :fab:`laptop-code` Software Extensions
+    :fa:`laptop-code`  Software Extensions
     ^^^^^
     New Atlantis software extensions build upon mature, open-source software that have already been serving the research community for decades, and provide:
 
-    - :fa:`display` refined **graphical user interfaces**
-    - :fab:`windows` :fab:`apple` :fab:`linux` **cross-platform** support
-    - :fa:`book` comprehensive online **documentation**
-    - :fa:`comments` large and active online **user communities**
-    - :fa:`graduation-cap` plentiful online **tutorials** and learning resources
+    - :fa:`display`  Refined **graphical user interfaces**
+    - :fab:`windows` :fab:`apple` :fab:`linux`  **Cross-platform** support
+    - :fa:`book`  Comprehensive online **documentation**
+    - :fa:`comments`  Large and active online **user communities**
+    - :fa:`graduation-cap`  Abundant online **tutorials** and learning resources
 
 
   .. grid-item-card:: 
     :class-body: p-0
+    :class-card: p-0
     :margin: 0
 
     .. carousel::
@@ -124,7 +126,7 @@ New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` proje
 
   .. card::
     :margin: 2
-    :link: NA_PrimaThroneMRI
+    :link: na_primathronemri
     :link-type: ref
     :class-header: sd-bg-white sd-text-dark sd-text-bold
     :class-body: sd-bg-dark
@@ -151,7 +153,7 @@ New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` proje
 
   .. card::
     :margin: 2
-    :link: NA_PrimaThrone
+    :link: na_primathrone
     :link-type: ref
     :class-header: sd-bg-white sd-text-dark sd-text-bold
     :class-body: sd-bg-dark
@@ -177,7 +179,7 @@ New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` proje
   .. card::
     :margin: 2
     :link: NA_METHVEX
-    :link-type: ref
+    :link-type: doc
     :class-header: sd-bg-white sd-text-dark sd-text-bold
     :class-body: sd-bg-dark
     :class-footer: sd-bg-dark
@@ -206,7 +208,7 @@ New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` proje
   .. card::
     :margin: 2
     :link: NA_RestEasy
-    :link-type: ref
+    :link-type: doc
     :class-header: sd-bg-white sd-text-dark sd-text-bold
     :class-body: sd-bg-dark
     :class-footer: sd-bg-dark
