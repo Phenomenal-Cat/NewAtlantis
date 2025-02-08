@@ -192,7 +192,7 @@ New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` proje
       :height: 30
       :target: https://www.thingiverse.com/thing:2968729/files
     .. image:: _images/Logos/Freecad_Icon.svg
-      :height: 35
+      :height: 30
       :target: https://www.freecad.org
 
 
@@ -218,12 +218,12 @@ New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` proje
       :height: 30
       :target: https://www.thingiverse.com/thing:2968729/files
     .. image:: _images/Logos/Freecad_Icon.svg
-      :height: 35
+      :height: 30
       :target: https://www.freecad.org
 
   .. card::
     :margin: 2
-    :link: NA_METHVEX
+    :link: NA_METHVEx
     :link-type: doc
     :class-header: sd-bg-white sd-text-dark sd-text-bold
     :class-body: sd-bg-dark
@@ -243,7 +243,7 @@ New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` proje
       :height: 30
       :target: https://www.thingiverse.com/thing:2968729/files
     .. image:: _images/Logos/Freecad_Icon.svg
-      :height: 35
+      :height: 30
       :target: https://www.freecad.org
     .. image:: _images/Logos/PupilLabs_Icon.png
       :height: 30
@@ -276,7 +276,7 @@ New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` proje
       :height: 30
       :target: https://www.thingiverse.com/thing:2968729/files
     .. image:: _images/Logos/Freecad_Icon.svg
-      :height: 35
+      :height: 30
       :target: https://www.freecad.org
 
 
