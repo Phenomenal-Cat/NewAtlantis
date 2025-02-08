@@ -3,37 +3,76 @@
   :class: no-scaled-link
 
 .. card::
-  :img-top: _images/Photos/GlassBrain_Cropcopy.png
+  :img-top: _images/Photos/GlassBrain_NAlogo_V1.png
   :margin: 0
   :class-header: sd-bg-primary
+  :class-card: p-0
   
-  |NAL| 
-  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-  .. image:: _images/Photos/NMT_DecimatedBlue.gif
-    :height: 150
-    :align: right
-    :class: no-scaled-link
 
   **Open-Source Solutions for Modern Neuroscience**
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  
+  .. grid:: 2
+    :margin: 0
+    :padding: 0
+    :gutter: 0
 
-  New Atlantis Laboratories develops open-source :bdg-ref-success:`software <NA_SoftwareIndx>` extensions and :bdg-ref-info:`hardware <NA_HardwareIndx>` designs, primarily for the cognitive neuroscience research community, with the goal of accelerating scientific discovery. Conducting novel scientific research often requires the development of custom tools to address specific needs for which there are no commercially available solutions. Accessible, well documented, open-source solutions that permit sharing and modification provide researchers with more developed starting points, and are therefore critical to improving research efficiency. New Atlantis strives to assist the research community through the free and open distribution of knowledge and resources.
+    .. grid-item-card:: 
+      :columns: 9
+      :class-card: sd-border-0 p-0 m-0
+      :margin: 0
+      :padding: 0
+      :shadow: none
+      :text-align: justify
 
-  .. image:: _images/Icons/osi_button.png
-    :height: 30
-    :target: https://opensource.org/
+      New Atlantis Laboratories develops open-source :bdg-ref-success:`software <NA_SoftwareIndx>` extensions and :bdg-ref-info:`hardware <NA_HardwareIndx>` designs for the cognitive neuroscience research community, with the goal of accelerating scientific discovery. 
 
-  .. image:: _images/Icons/oshw_button.png
-    :height: 30
-    :target: https://www.oshwa.org/
+      Conducting novel scientific research often requires the development of custom tools to address specific needs for which there are no commercially available solutions. Accessible, well documented, open-source solutions that permit sharing and modification reduce wasteful reinventing of the wheel, and are therefore **critical to improving research efficiency**. New Atlantis strives to assist the research community through the free and open distribution of resources and knowledge.
 
-  .. image:: _images/Icons/CC_logo.png
-    :height: 30
-    :target: https://creativecommons.org/
+    .. grid-item-card:: 
+      :columns: 3
+      :class-card: sd-border-0 p-0 m-0
+      :margin: 0
+      :padding: 0
+      :shadow: none
 
-  .. image:: _images/Icons/License_GPLv3.png
-    :height: 30
-    :target: https://www.gnu.org/licenses/gpl-3.0.en.html
+      .. grid:: 1
+        :margin: 0
+        :padding: 0
+        :gutter: 0
+
+        .. grid-item-card::
+          :class-card: sd-border-0 p-0 m-0
+          :margin: 0
+          :padding: 0
+          :shadow: none
+
+          .. image:: _images/Photos/NMT_DecimatedBlue.gif
+            :width: 100%
+            :align: right
+            :class: no-scaled-link
+
+        .. grid-item-card::
+          :class-card: sd-border-0 p-0 m-0
+          :margin: 0
+          :padding: 0
+          :shadow: none
+
+          .. image:: _images/Icons/osi_button.png
+            :height: 30
+            :target: https://opensource.org/
+
+          .. image:: _images/Icons/oshw_button.png
+            :height: 30
+            :target: https://www.oshwa.org/
+
+          .. image:: _images/Icons/CC_logo.png
+            :height: 30
+            :target: https://creativecommons.org/
+
+          .. image:: _images/Icons/License_GPLv3.png
+            :height: 30
+            :target: https://www.gnu.org/licenses/gpl-3.0.en.html
 
 
 .. |OS| image:: _images/Icons/osi_button.png
@@ -52,8 +91,10 @@
 .. grid:: 2
   :margin: 2 2 0 0
   :padding: 0
+  :gutter: 0
 
   .. grid-item-card:: 
+    :columns: 4
     :class-body: p-1
     :class-card: p-1
     :margin: 0
@@ -70,10 +111,14 @@
     - :fa:`graduation-cap`  Abundant online **tutorials** and learning resources
 
 
+
   .. grid-item-card:: 
+    :columns: 8
     :class-body: p-0
-    :class-card: p-0
+    :class-card: p-0 sd-border-0 p-0 m-0
     :margin: 0
+    :padding: 0
+    :shadow: none
 
     .. carousel::
         :show_controls:
@@ -110,7 +155,7 @@
 |OS| Open Software Projects
 ===============================
 
-.. include:: NA_SoftwareGrid.rst
+.. include:: NA_SoftwareGrid_Links.rst
 
 
 
@@ -146,7 +191,7 @@ New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` proje
     .. image:: _images/Icons/Thingiverse.png
       :height: 30
       :target: https://www.thingiverse.com/thing:2968729/files
-    .. image:: _images/Logos/FreeCAD-logo.svg
+    .. image:: _images/Logos/Freecad_Icon.svg
       :height: 35
       :target: https://www.freecad.org
 
@@ -172,7 +217,7 @@ New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` proje
     .. image:: _images/Icons/Thingiverse.png
       :height: 30
       :target: https://www.thingiverse.com/thing:2968729/files
-    .. image:: _images/Logos/FreeCAD-logo.svg
+    .. image:: _images/Logos/Freecad_Icon.svg
       :height: 35
       :target: https://www.freecad.org
 
@@ -197,7 +242,7 @@ New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` proje
     .. image:: _images/Icons/Thingiverse.png
       :height: 30
       :target: https://www.thingiverse.com/thing:2968729/files
-    .. image:: _images/Logos/FreeCAD-logo.svg
+    .. image:: _images/Logos/Freecad_Icon.svg
       :height: 35
       :target: https://www.freecad.org
     .. image:: _images/Logos/PupilLabs_Icon.png
@@ -230,18 +275,16 @@ New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` proje
     .. image:: _images/Icons/Thingiverse.png
       :height: 30
       :target: https://www.thingiverse.com/thing:2968729/files
-    .. image:: _images/Logos/FreeCAD-logo.svg
+    .. image:: _images/Logos/Freecad_Icon.svg
       :height: 35
       :target: https://www.freecad.org
-
-
 
 
 .. dropdown:: :fa:`circle-info` About
   :margin: 2 2 0 0
   :animate: fade-in
   :open:
-  :color: warning
+  :color: primary
   :class-title: sd-bg-warning sd-text-dark sd-text-left sd-font-weight-bold p-2
   :class-body: sd-bg-dark sd-text-left
 

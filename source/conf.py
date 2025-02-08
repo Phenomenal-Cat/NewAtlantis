@@ -41,7 +41,6 @@ extensions = [
     'sphinx_design',
     'matplotlib.sphinxext.plot_directive',
     'sphinx_carousel.carousel',
-    #'sphinx.ext.intersphinx',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -62,17 +61,20 @@ pygments_style = 'sphinx'
 #
 html_theme = 'nature'
 
+#html_theme = 'furo'
+#html_theme_options = {
+#    "sidebar_hide_name": True,
+#    "light_logo": '.NewAtlantisLabs_1b.png',
+#    "dark_logo": 'NewAtlantisLabs_1w.png',
+#}
+
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 
-#html_logo = './_images/Logos/ML_Icosahedron.gif'
-html_logo = './_images/Logos/NewAtlantisLabs_1w.png'
-
-html_show_sourcelink = False
-
-html_static_path = ['_static']
-
+html_logo               = './_images/Logos/NewAtlantisLabs_1w.png'
+html_static_path        = ['_static']
+html_show_sourcelink    = False
 
 
 # Custom sidebar templates, must be a dictionary that maps document names
@@ -84,8 +86,8 @@ html_static_path = ['_static']
 # 'searchbox.html']``.
 #
 
-html_sidebars = { '**': ['globaltoc.html', 'relations.html', 'sourcelink.html', 'searchbox.html'] }
-
+#html_sidebars = { '**': ['globaltoc.html', 'relations.html', 'sourcelink.html', 'searchbox.html'] }
+html_sidebars = { '**': ['globaltoc.html', 'sourcelink.html', 'searchbox.html'] }
 
 
 # Custom CSS

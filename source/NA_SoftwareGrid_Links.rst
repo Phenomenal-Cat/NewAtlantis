@@ -4,6 +4,7 @@
   :padding: 0
 
   .. grid-item-card::
+    :link: https://mf3d.readthedocs.io/
     :img-top: _images/Photos/MF3D_CooCall.png
     :class-header: sd-bg-white sd-text-dark sd-text-bold p-0 pl-3 pt-2
     :class-body: sd-bg-dark
@@ -35,6 +36,7 @@
       :target: https://www.gnu.org/licenses/gpl-3.0.en.html
 
   .. grid-item-card::
+    :link: https://py-ignite.readthedocs.io/
     :img-top: _images/Photos/BrainSlice.png
     :class-header: sd-bg-white sd-text-dark sd-text-bold p-0 pl-3 pt-2
     :class-body: sd-bg-dark
@@ -69,6 +71,7 @@
       :target: https://www.gnu.org/licenses/gpl-3.0.en.html
 
   .. grid-item-card::
+    :link: https://psychtoolbar.rtfd.io
     :img-top: _images/Photos/NTB_GUImontage.png
     :class-header: sd-bg-white sd-text-dark sd-text-bold p-0 pl-3 pt-2
     :class-body: sd-bg-dark
