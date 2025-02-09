@@ -4,38 +4,50 @@
 PrimaThrone
 =============================
 
-.. image:: _images/Designs/PrimaThrone/PrimaThrone_V1_Demo.jpeg
-  :width: 30%
-  :align: left
-
-PrimaThrone is an open-source testing chair design for use in neurobehavioural research with non-human primates (and more specifically, macaque monkeys). 
+PrimaThrone is an open-source `testing chair <https://www.nc3rs.org.uk/chair-restraint-training-non-human-primates>`_ design for use in neurobehavioural research with non-human primates (and more specifically, macaque monkeys). 
 
 Motivation
 ==========
 
-.. image:: https://www.nc3rs.org.uk/sites/default/files/Images/Animals/Restraint%20Monkey.jpg
-  :width: 30%
-  :align: right
-  :target: https://www.nc3rs.org.uk/chair-restraint-training-non-human-primates
+.. grid:: 2
+
+  .. grid-item:: 
+    :columns: 3
+    :margin: 0
+
+    .. image:: _images/Designs/PrimaThrone/PrimaThrone_V1_Demo.jpeg
+      :width: 100%
+      :align: left
+
+  .. grid-item:: 
+    :margin: 0
+    :columns: 9
+
+    Neuroscientific research in non-human primates (NHPs) requires a range of esoteric products, that manufacturers are able to charge exorbitant prices for. The NHP testing 'chair' is one such item, with each unit typically costing around :ref:`$14,000 <commercialchairs>`, while the cost of the materials is :ref:`less than $1,000 <primathrone_bom>`.
+
+    Typical NHP chair designs (`McMillan, Bloomsmith & Prescott, 2017 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5621573/>`_) consist of two main parts: a box structure that the animal can climb into and sit in with only the head exposed, and a base structure that is used to elevate the box and is typically on lockable casters for transportation. The main constraints on the materials and construction of NHP chairs is that they need to be able to safely and comfortably contain an adult NHP, while also withstanding the high temperature and pressure of facility cage wash systems. However, they also need to be light enough to move around fairly easily and designed with ease of use and the safety of researchers in mind. NHP chairs for use in MRI scanners places additional constraints on material choices and dimensions, which this design is not intended for.
 
 
-Neuroscientific research in non-human primates (NHPs) requires a range of esoteric products, that manufacturers are able to charge exorbitant prices for. The NHP testing 'chair' is one such item. 
+.. _commercialchairs:
 
-Typical NHP chair designs (`McMillan, Bloomsmith & Prescott, 2017 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5621573/>`_) consist of two main parts: a box structure that the animal can climb into and sit in with only the head exposed, and a base structure that is used to elevate the box and is typically on lockable casters for transportation. The main constraints on the materials and construction of NHP chairs is that they need to be able to safely and comfortably contain an adult NHP, while also withstanding the high temperature and pressure of regular cage wash. However, they also need to be light enough to move around fairly easily and designed with ease of use and the safety of researchers in mind. NHP chairs for use in MRI scanners places additional constraints on material choices and dimensions, which this design is not intended for.
+:fa:`sack-dollar` Commercial options
+======================================
 
+.. grid:: 2
 
-Commercial options
-==================
+  .. grid-item:: 
 
-If your lab has the money, it's always nice to buy ready-made solutions
-so that you can focus on science instead of engineering. The table below lists some
-commercial options for typical NHP behavioural testing chairs.
+    If your lab has the money, it's always nice to buy ready-made solutions
+    so that you can focus on science instead of engineering. The table below lists some
+    commercial options for typical NHP behavioural testing chairs. 
 
-.. csv-table:: 
-  :file: _static/CSVs/MLab_NHPchair_Commercial.csv
-  :widths: 30 20 20 20
-  :header-rows: 1
-  :align: left
+  .. grid-item:: 
+
+    .. csv-table:: 
+      :file: _static/CSVs/MLab_NHPchair_Commercial.csv
+      :widths: 30 20 20 20
+      :header-rows: 1
+      :align: left
  
 
 Materials
@@ -90,8 +102,10 @@ moving the chair around, corner brackets for attaching the panels to
 each other, and a removable waste pan.
 
 
-Bill of materials
------------------
+.. _primathrone_bom:
+
+:fa:`list` Bill of materials
+---------------------------------
 
 .. csv-table::
   :file: _static/CSVs/MLab_PrimaThrone_BOM.csv
@@ -100,11 +114,17 @@ Bill of materials
   :align: left
 
 
+:fa:`screwdriver-wrench` Custom Parts
+===========================================
+
+
+
+
+
 
 .. _NA_PrimaThroneMRI:
 
-
-PrimaThrone MRI
-==========================
+:fa:`magnet` PrimaThrone MRI
+===============================
 
 
