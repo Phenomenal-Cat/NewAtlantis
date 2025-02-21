@@ -54,9 +54,11 @@ Fortunately, it is relatively easy to produce a chin rest of comparable strength
 
 The standard version of the *RestEasy* chin rest clamps to the edge of table surfaces up to 2" thick, offers adjustable-height chin and forehead rests (up to a maximum determined by the length of aluminum profile used) and is 12" (imperial) or 24cm (metric) wide. Further variations can be created by editing the CAD file provided.
 
-.. link-button:: https://www.thingiverse.com/thing:2968729/files
-   :text: Thingiverse Download
-   :classes: btn-primary
+.. button-link:: https://www.thingiverse.com/thing:2968729/files
+   :color: primary
+
+   Thingiverse Download
+   
 
 Materials
 ============
