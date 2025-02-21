@@ -14,4 +14,3 @@ sphinx-inline-tabs
 sphinx-design
 sphinx-copybutton
 sphinx-carousel
-furo
