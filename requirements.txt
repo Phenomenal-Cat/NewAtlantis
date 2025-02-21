@@ -1,4 +1,4 @@
-Sphinx>5.0
+Sphinx>7.0
 Jinja2
 Pygments
 Sphinx
@@ -14,3 +14,4 @@ sphinx-inline-tabs
 sphinx-design
 sphinx-copybutton
 sphinx-carousel
+Furo
