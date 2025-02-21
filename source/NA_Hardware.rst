@@ -98,7 +98,7 @@ Hardware Categories
       .. image:: _images/Icons/Thingiverse.png
         :height: 30
         :target: https://www.thingiverse.com/thing:2968729/files
-      .. image:: _images/Logos/FreeCAD-logo.svg
+      .. image:: _images/Logos/Freecad_Icon.svg
         :height: 35
         :target: https://www.freecad.org
 
@@ -135,7 +135,7 @@ Hardware Categories
       :height: 30
     .. image:: _images/Icons/Thingiverse.png
       :height: 30
-    .. image:: _images/Logos/FreeCAD-logo.svg
+    .. image:: _images/Logos/Freecad_Icon.svg
       :height: 35
       :target: https://www.freecad.org
 
@@ -160,7 +160,7 @@ Hardware Categories
       :height: 30
     .. image:: _images/Icons/Thingiverse.png
       :height: 30
-    .. image:: _images/Logos/FreeCAD-logo.svg
+    .. image:: _images/Logos/Freecad_Icon.svg
       :height: 35
       :target: https://www.freecad.org
 
@@ -184,7 +184,7 @@ Hardware Categories
       :height: 30
     .. image:: _images/Icons/Thingiverse.png
       :height: 30
-    .. image:: _images/Logos/FreeCAD-logo.svg
+    .. image:: _images/Logos/Freecad_Icon.svg
       :height: 35
       :target: https://www.freecad.org
     .. image:: _images/Logos/PupilLabs_Icon.png
@@ -212,7 +212,7 @@ Hardware Categories
       :height: 30
     .. image:: _images/Icons/Thingiverse.png
       :height: 30
-    .. image:: _images/Logos/FreeCAD-logo.svg
+    .. image:: _images/Logos/Freecad_Icon.svg
       :height: 35
       :target: https://www.freecad.org
 
