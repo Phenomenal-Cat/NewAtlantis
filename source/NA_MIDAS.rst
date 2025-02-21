@@ -128,7 +128,7 @@ Surgery #1: Chamber implantation
   :class-body: sd-bg-light sd-text-justify 
 
   .. csv-table::
-    :file: ../_static/CSVs/MIDAS_Surgery1_materials.csv
+    :file: _static/CSVs/MIDAS_Surgery1_materials.csv
     :align: left
     :header-rows: 1
     :widths: auto
@@ -194,13 +194,13 @@ Surgery #2: Electrode implantation
   :class-body: sd-bg-light sd-text-justify 
 
   .. csv-table::
-    :file: ../_static/CSVs/MIDAS_Surgery2_materials.csv
+    :file: _static/CSVs/MIDAS_Surgery2_materials.csv
     :align: left
     :header-rows: 1
     :widths: auto
 
   .. csv-table::
-    :file: ../_static/CSVs/MIDAS_Surgery2_tools.csv
+    :file: _static/CSVs/MIDAS_Surgery2_tools.csv
     :align: left
     :header-rows: 1
     :widths: auto
