@@ -50,14 +50,14 @@ Fortunately, it is relatively easy to produce a chin rest of comparable strength
   These include machined, extruded, black-anodized aluminium profile, fittings, machine screws, plastic knobs, nuts and washers. These are available from many vendors worldwide, but for users based in the US, sources are listed below for `Misumi <https://us.misumi-ec.com/>`__, `8020 <https://www.8020.net/>`__, and `McMaster-Carr <https://www.mcmaster.com/>`__.
 
   **2) Custom designed plastic components**
-  The design of the custom components was generated in the open-source CAD package `FreeCAD <https://www.freecadweb.org/>`__, and the original file is provided to allow users to make alterations to fit their specific needs. Additionally, .STL (stereolithography) files ready for immediate 3D-printing can be `downloaded <https://www.thingiverse.com/thing:2968729>`__, which can be sent to either your institution's machine shop or your nearest prototype manufacturer/ 3D-printing service (see links below) for production.
+  The design of the custom components was generated in the open-source CAD package `FreeCAD <https://www.freecadweb.org/>`__, and the original file is provided to allow users to make alterations to fit their specific needs. Additionally, .STL (stereolithography) files ready for immediate 3D-printing can be `downloaded <https://grabcad.com/library/resteasy-chin-rest-for-psychophysics-research-1>`__, which can be sent to either your institution's machine shop or your nearest prototype manufacturer/ 3D-printing service (see links below) for production.
 
 The standard version of the *RestEasy* chin rest clamps to the edge of table surfaces up to 2" thick, offers adjustable-height chin and forehead rests (up to a maximum determined by the length of aluminum profile used) and is 12" (imperial) or 24cm (metric) wide. Further variations can be created by editing the CAD file provided.
 
-.. button-link:: https://www.thingiverse.com/thing:2968729/files
+.. button-link:: https://grabcad.com/library/resteasy-chin-rest-for-psychophysics-research-1
    :color: primary
 
-   Thingiverse Download
+   GrabCAD Download
    
 
 Materials
@@ -66,7 +66,7 @@ Materials
 Custom produced plastic parts
 -----------------------------
 
-There are five custom-designed parts to the RestEasy, that need to be custom manufactured in plastic. The parts can be downloaded from `Thingiverse <https://www.thingiverse.com/thing:2968729>`__ as stereolithography (.stl) files ready for 3D printing, or the `FreeCAD <https://www.freecadweb.org/>`__ (.FCStd) parametric file for further editing and export in formats suitable for CNC machining or injection molding. These plastic parts will be the most expensive components, depending on the availability of local prototyping facilities. Since they will be in contact with participants' chin and forehead, they need to be strong and comfortable against the skin. Here are some options for achieving this in ascending order of cost:
+There are five custom-designed parts to the RestEasy, that need to be custom manufactured in plastic. The parts can be downloaded from `GrabCAD <https://grabcad.com/library/resteasy-chin-rest-for-psychophysics-research-1>`_ as stereolithography (.stl) files ready for 3D printing, or the `FreeCAD <https://www.freecadweb.org/>`_ (.FCStd) parametric file for further editing and export in formats suitable for CNC machining or injection molding. These plastic parts will be the most expensive components, depending on the availability of local prototyping facilities. Since they will be in contact with participants' chin and forehead, they need to be strong and comfortable against the skin. Here are some options for achieving this in ascending order of cost:
 
 .. tab:: 3D printing
 

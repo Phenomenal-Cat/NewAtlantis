@@ -59,18 +59,15 @@ below.
   :width: 30%
   :align: right
 
-To minimize occlusion of the subject's field of view (FOV), we
-designed a pair of spectacle frames to closely fit the contours of the
-face of an average Rhesus macaque (see computer renders below). The wrap-around
-frame style can optionally house circular polarizing filters (taken from
-commercial 3D glasses) for use in immersive dome projection environments. This not only maximizes the FOV but also preserving continuity across the visual field.
+To minimize occlusion of the subject's field of view (FOV), we designed a pair of spectacle frames to closely fit the contours of the
+face of an average Rhesus macaque (see computer renders below). The wrap-around frame style can optionally house circular polarizing filters (taken from commercial 3D glasses) for use in immersive dome projection environments. This not only maximizes the FOV but also preserving continuity across the visual field.
 
-The frames are printed in `Kevlar <https://markforged.com/materials/continuous-fibers/kevlar>`_ on a MarkForged 3D printer, making them incredibly impact-resistant.
+The frames are printed in `Kevlar-reinforced <https://markforged.com/materials/continuous-fibers/kevlar>`_ thermoplastic on a MarkForged 3D printer, making them incredibly impact-resistant.
 
-To allow adjustment of the glasses position for animals with different
-face shapes and yet keep the glasses firmly in place during head
-movement, the 3D-printed frames attach to an adjustable mounting system
-that is anchored to the subject's headpost.
+.. button-link:: https://grabcad.com/library/methvex-eye-tracking-camera-mount-1
+   :color: primary
+
+   GrabCAD Download
 
 
 
