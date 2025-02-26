@@ -12,7 +12,7 @@
 |HW| Open Hardware
 ====================
 
-New Atlantis Laboratories' :bdg-info:`open hardware` projects are hosted on `Thingiverse <https://www.thingiverse.com/phenomenalcat/designs>`_ and licensed under the permissive :fa:`unlock` `CERN open-hardware 2.0 <CERN-OHL-P>`_ license, while the accompanying documentation is hosted here on `ReadTheDocs <https://newatlantis.rtfd.io>`_ and licensed under `Creative Commons CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/>`_.
+New Atlantis Laboratories' :bdg-info:`open hardware` projects are hosted on `Thingiverse <https://www.thingiverse.com/phenomenalcat/designs>`_ and licensed under the permissive :fa:`unlock` `CERN open-hardware 2.0 <CERN-OHL-P>`_ license, while the accompanying documentation is hosted here on `ReadTheDocs <https://newatlantis.rtfd.io>`_ and licensed under `Creative Commons CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/>`_.
 
 
 Hardware Categories
@@ -95,9 +95,9 @@ Hardware Categories
       +++++++
       .. image:: _images/Logos/readthedocs_Icon.png
         :height: 30
-      .. image:: _images/Icons/Thingiverse.png
+      .. image:: _images/Icons/GrabCAD.png
         :height: 30
-        :target: https://www.thingiverse.com/thing:2968729/files
+        :target: https://grabcad.com/new.atlantis.labs-1
       .. image:: _images/Logos/Freecad_Icon.svg
         :height: 35
         :target: https://www.freecad.org
@@ -133,8 +133,9 @@ Hardware Categories
     +++++++
     .. image:: _images/Logos/readthedocs_Icon.png
       :height: 30
-    .. image:: _images/Icons/Thingiverse.png
+    .. image:: _images/Icons/GrabCAD.png
       :height: 30
+      :target: https://grabcad.com/new.atlantis.labs-1
     .. image:: _images/Logos/Freecad_Icon.svg
       :height: 35
       :target: https://www.freecad.org
@@ -158,8 +159,9 @@ Hardware Categories
     +++++++
     .. image:: _images/Logos/readthedocs_Icon.png
       :height: 30
-    .. image:: _images/Icons/Thingiverse.png
+    .. image:: _images/Icons/GrabCAD.png
       :height: 30
+      :target: https://grabcad.com/new.atlantis.labs-1
     .. image:: _images/Logos/Freecad_Icon.svg
       :height: 35
       :target: https://www.freecad.org
@@ -182,8 +184,9 @@ Hardware Categories
     +++++++
     .. image:: _images/Logos/readthedocs_Icon.png
       :height: 30
-    .. image:: _images/Icons/Thingiverse.png
+    .. image:: _images/Icons/GrabCAD.png
       :height: 30
+      :target: https://grabcad.com/new.atlantis.labs-1
     .. image:: _images/Logos/Freecad_Icon.svg
       :height: 35
       :target: https://www.freecad.org
@@ -210,8 +213,9 @@ Hardware Categories
     +++++++
     .. image:: _images/Logos/readthedocs_Icon.png
       :height: 30
-    .. image:: _images/Icons/Thingiverse.png
+    .. image:: _images/Icons/GrabCAD.png
       :height: 30
+      :target: https://grabcad.com/new.atlantis.labs-1
     .. image:: _images/Logos/Freecad_Icon.svg
       :height: 35
       :target: https://www.freecad.org

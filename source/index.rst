@@ -164,7 +164,7 @@
 |OH| Open Hardware Projects
 ================================
 
-New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` projects' resources are hosted on `Thingiverse <https://www.thingiverse.com/phenomenalcat/designs>`_ and `GrabCAD <https://grabcad.com/>`_ and licensed under the permissive `CERN open-hardware 2.0 <CERN-OHL-P>`_ license, while the accompanying documentation is hosted here on `ReadTheDocs <https://newatlantis.rtfd.io>`_ and licensed under `Creative Commons CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/>`_.
+New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` projects' resources are hosted on `GrabCAD <https://grabcad.com/new.atlantis.labs-1>`_ and licensed under the permissive `CERN open-hardware 2.0 <CERN-OHL-P>`_ license, while the accompanying documentation is hosted here on `ReadTheDocs <https://newatlantis.rtfd.io>`_ and licensed under `Creative Commons CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/>`_.
 
 
 .. card-carousel:: 3
@@ -188,9 +188,9 @@ New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` proje
     +++++++
     .. image:: _images/Logos/readthedocs_Icon.png
       :height: 30
-    .. image:: _images/Icons/Thingiverse.png
+    .. image:: _images/Icons/GrabCAD.png
       :height: 30
-      :target: https://www.thingiverse.com/thing:2968729/files
+      :target: https://grabcad.com/new.atlantis.labs-1
     .. image:: _images/Logos/Freecad_Icon.svg
       :height: 30
       :target: https://www.freecad.org
@@ -214,9 +214,9 @@ New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` proje
     +++++++
     .. image:: _images/Logos/readthedocs_Icon.png
       :height: 30
-    .. image:: _images/Icons/Thingiverse.png
+    .. image:: _images/Icons/GrabCAD.png
       :height: 30
-      :target: https://www.thingiverse.com/thing:2968729/files
+      :target: https://grabcad.com/new.atlantis.labs-1
     .. image:: _images/Logos/Freecad_Icon.svg
       :height: 30
       :target: https://www.freecad.org
@@ -239,9 +239,9 @@ New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` proje
     +++++++
     .. image:: _images/Logos/readthedocs_Icon.png
       :height: 30
-    .. image:: _images/Icons/Thingiverse.png
+    .. image:: _images/Icons/GrabCAD.png
       :height: 30
-      :target: https://www.thingiverse.com/thing:2968729/files
+      :target: https://grabcad.com/new.atlantis.labs-1
     .. image:: _images/Logos/Freecad_Icon.svg
       :height: 30
       :target: https://www.freecad.org
@@ -272,9 +272,9 @@ New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` proje
     +++++++
     .. image:: _images/Logos/readthedocs_Icon.png
       :height: 30
-    .. image:: _images/Icons/Thingiverse.png
+    .. image:: _images/Icons/GrabCAD.png
       :height: 30
-      :target: https://www.thingiverse.com/thing:2968729/files
+      :target: https://grabcad.com/new.atlantis.labs-1
     .. image:: _images/Logos/Freecad_Icon.svg
       :height: 30
       :target: https://www.freecad.org
@@ -297,7 +297,7 @@ New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` proje
     :width: 20%
     :align: right
 
-  **New Atlantis Laboratories** takes its name from the `1626 utopian novel <https://en.wikipedia.org/wiki/New_Atlantis>`_ by Sir Francis Bacon, in which he described a fictitious island where people held attitudes towards the free and open dissemination of knowledge that we refer to today as `'open science' <https://en.wikipedia.org/wiki/Open_science>`_. The goal of **New Atlantis Laboratories** is to make a range of niche digital tools developed for specific applications within behavioural neuroscience research publicly available to the research community. In addition to software tools this includes hardware designs released under permissive, open-source licenses (`CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/>`) that allow commercial enterprises to acquire, develop, fabricate and retail these designs, *provided they share* any changes or improvements they make under the same license.
+  **New Atlantis Laboratories** takes its name from the `1626 utopian novel <https://en.wikipedia.org/wiki/New_Atlantis>`_ by Sir Francis Bacon, in which he described a fictitious island where people held attitudes towards the free and open dissemination of knowledge that we refer to today as `'open science' <https://en.wikipedia.org/wiki/Open_science>`_. The goal of **New Atlantis Laboratories** is to make a range of niche digital tools developed for specific applications within behavioural neuroscience research publicly available to the research community. In addition to software tools this includes hardware designs released under permissive, open-source licenses (`CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/>`_) that allow commercial enterprises to acquire, develop, fabricate and retail these designs, *provided they share* any changes or improvements they make under the same license.
 
 
   .. image:: _images/Icons/osi_button.png
