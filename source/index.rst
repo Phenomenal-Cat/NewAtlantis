@@ -297,7 +297,7 @@ New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` proje
     :width: 20%
     :align: right
 
-  **New Atlantis Laboratories** takes its name from the `1626 utopian novel <https://en.wikipedia.org/wiki/New_Atlantis>`_ by Sir Francis Bacon, in which he described a fictitious island where people held attitudes towards the free and open dissemination of knowledge that we refer to today as `'open science' <https://en.wikipedia.org/wiki/Open_science>`_. The goal of **New Atlantis Laboratories** is to make a range of niche digital tools developed for specific applications within behavioural neuroscience research publicly available to the research community. In addition to software tools this includes hardware designs released under permissive open-source licenses that allow commercial enterprises to acquire, develop, fabricate and retail these designs.
+  **New Atlantis Laboratories** takes its name from the `1626 utopian novel <https://en.wikipedia.org/wiki/New_Atlantis>`_ by Sir Francis Bacon, in which he described a fictitious island where people held attitudes towards the free and open dissemination of knowledge that we refer to today as `'open science' <https://en.wikipedia.org/wiki/Open_science>`_. The goal of **New Atlantis Laboratories** is to make a range of niche digital tools developed for specific applications within behavioural neuroscience research publicly available to the research community. In addition to software tools this includes hardware designs released under permissive, open-source licenses (`CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/>`) that allow commercial enterprises to acquire, develop, fabricate and retail these designs, *provided they share* any changes or improvements they make under the same license.
 
 
   .. image:: _images/Icons/osi_button.png
@@ -316,9 +316,9 @@ New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` proje
     :height: 30
     :target: https://www.gnu.org/licenses/gpl-3.0.en.html
 
-  .. image:: _images/Logos/CC.png
+  .. image:: _images/Logos/CC_by-sa.png
     :height: 30
-    :target: https://creativecommons.org/licenses/by-nc-sa/4.0/
+    :target: https://creativecommons.org/licenses/by-sa/4.0/
 
 
 .. toctree::
