@@ -27,7 +27,7 @@
 
       New Atlantis Laboratories develops open-source :bdg-ref-success:`software <NA_SoftwareIndx>` extensions and :bdg-ref-info:`hardware <NA_HardwareIndx>` designs for the cognitive neuroscience research community, with the goal of accelerating scientific discovery. 
 
-      Conducting novel scientific research often requires the development of custom tools to address specific needs for which there are no commercially available solutions. Accessible, well documented, open-source solutions that permit sharing and modification reduce wasteful reinventing of the wheel, and are therefore **critical to improving research efficiency**. New Atlantis strives to assist the research community through the free and open distribution of resources and knowledge.
+      Conducting novel scientific research often requires the development of custom tools to address specific needs for which there are no commercially available solutions. Accessible, well documented, open-source solutions that permit sharing and modification reduce wasteful reinventing of the wheel, and are therefore **critical to improving research efficiency**. New Atlantis strives to assist the research community through the free and :ref:`open distribution <about>` of resources and knowledge.
 
     .. grid-item-card:: 
       :columns: 3
@@ -280,12 +280,14 @@ New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` proje
       :target: https://www.freecad.org
 
 
+.. _about:
+
 .. dropdown:: :fa:`circle-info` About
   :margin: 2 2 0 0
   :animate: fade-in
   :open:
-  :color: primary
-  :class-title: sd-bg-warning sd-text-dark sd-text-left sd-font-weight-bold p-2
+  :color: info
+  :class-title: sd-text-left sd-font-weight-bold p-2
   :class-body: sd-bg-dark sd-text-left
 
   .. image:: _images/Photos/SirFrancisBacon.png
