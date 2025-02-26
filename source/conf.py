@@ -37,7 +37,6 @@ extensions = [
     'sphinx.ext.githubpages',
     'recommonmark',
     'sphinx_inline_tabs',
-    #'sphinx_panels',
     'sphinx_design',
     'matplotlib.sphinxext.plot_directive',
     'sphinx_carousel.carousel',

@@ -176,7 +176,7 @@ New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` proje
     :class-header: sd-bg-white sd-text-dark sd-text-bold
     :class-body: sd-bg-dark
     :class-footer: sd-bg-dark
-    :img-top: _images/Designs/PrimaThrone/NIF_MonkeyBox_front.png
+    :img-top: _images/Designs/PrimaThrone/NA_MonkeyBox_front.png
     :class-card: sd-border-1 sd-outline-light
 
     **PrimaThrone (MRI)**

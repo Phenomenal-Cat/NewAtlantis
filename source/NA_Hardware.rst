@@ -38,7 +38,7 @@ Hardware Categories
   .. grid-item-card:: 
     :link: hw-animal
     :link-type: ref
-    :img-top: _images/Designs/PrimaThrone/NIF_MonkeyBox_front.png
+    :img-top: _images/Designs/PrimaThrone/NA_MonkeyBox_front.png
     :class-header: sd-bg-primary
     :class-footer: sd-bg-dark
     :class-card: sd-border-1 sd-outline-light
@@ -121,10 +121,10 @@ Hardware Categories
     :class-header: sd-bg-white sd-text-dark sd-text-bold
     :class-body: sd-bg-dark
     :class-footer: sd-bg-dark
-    :img-top: _images/Designs/PrimaThrone/NIF_MonkeyBox_front.png
+    :img-top: _images/Designs/PrimaThrone/NA_MonkeyBox_front.png
     :class-card: sd-border-1 sd-outline-light
 
-    **PrimaThrone (MRI)**
+    **PrimaThrone (Horizontal)**
 
     ^^^^^^^^^^^^
 
@@ -150,7 +150,7 @@ Hardware Categories
     :img-top: _images/Designs/PrimaThrone/PrimaThrone_V1_crop.jpeg
     :class-card: sd-border-1 sd-outline-light
 
-    **PrimaThrone (E.phys)**
+    **PrimaThrone (Vertical)**
 
     ^^^^^^^^^^^^
     Behavioral testing and electrophysiology chairs for non-human primates.
@@ -166,8 +166,8 @@ Hardware Categories
 
   .. card::
     :margin: 2
-    :link: NA_METHVEX
-    :link-type: doc
+    :link: na_methvex
+    :link-type: ref
     :class-header: sd-bg-white sd-text-dark sd-text-bold
     :class-body: sd-bg-dark
     :class-footer: sd-bg-dark
