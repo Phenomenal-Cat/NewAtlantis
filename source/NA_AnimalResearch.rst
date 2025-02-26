@@ -4,8 +4,7 @@
 Animals in Biomedical Research
 =================================
 
-A central goal of biomedical research is to "seek fundamental knowledge about the nature and behavior of living systems", and to apply that knowledge to enhance health, and reduce illness and disability (`National Institutes of Health <https://www.nih.gov/about-nih/what-we-do/mission-goals>`_). `Basic research <https://en.wikipedia.org/wiki/Basic_research>`_ using animal models (i.e. 'living systems') is a critical starting point for gaining the knowledge required to achieve this mission. Scientists who work with animal models have an ethical responsibility towards those animals, which can be formalized as the concept of `the 3Rs <https://nc3rs.org.uk/3rs-public>`_: replace, reduce, refine. 
-
+A central goal of biomedical research is to "seek fundamental knowledge about the nature and behavior of living systems", and to apply that knowledge to enhance health, and reduce illness and disability (`National Institutes of Health <https://www.nih.gov/about-nih/what-we-do/mission-goals>`_). `Basic research <https://en.wikipedia.org/wiki/Basic_research>`_ using animal models (i.e. 'living systems') has been and continues to be a critical starting point for gaining the knowledge required to achieve this mission. Scientists who work with animal models have an ethical responsibility towards those animals, which can be formalized as the concept of `the 3Rs <https://nc3rs.org.uk/3rs-public>`_: replace, reduce, refine. Some of the tools that New Atlantis Labs develop are aimed at **refining** the process of animal research in ways that mutually benefit animals' welfare and scientific research quality and efficiency. 
 
 .. contents::
   :local:
@@ -14,17 +13,31 @@ A central goal of biomedical research is to "seek fundamental knowledge about th
 Non-Human Primates in Neuroscience
 ======================================
 
-.. image:: _images/AR/PrimateResearch_SpeciesTree.png
-  :width: 30%
-  :alt: Primate Phylogeny in Neuroscience
-  :align: right
+.. grid:: 2
 
-Basic neuroscience research in non-human primates (NHPs) is irreplaceable for insights into cognitive functions and brain diseases that are essential for developing new treatments and therapies (`Phillips et al., 2014 <https://doi.org/10.1002/ajp.22281>`_; `Roelfsema & Treue, 2014 <https://doi.org/10.1016/j.neuron.2014.06.003>`_). This is because human and non-human primates share similar physiology, neuroanatomy, reproduction, development, cognition, and social complexity. Paradoxically, these very similarities make the use of NHPs in biomedical research an ethically considered decision. 
+  .. grid-item:: 
+    :columns: 7
+    :margin: 0
+    :padding: 0 0 0 2
+
+    Basic neuroscience research in non-human primates (NHPs) is irreplaceable for insights into cognitive functions and brain diseases that are essential for developing new treatments and therapies (`Phillips et al., 2014 <https://doi.org/10.1002/ajp.22281>`_; `Roelfsema & Treue, 2014 <https://doi.org/10.1016/j.neuron.2014.06.003>`_). This is because human and non-human primates share similar physiology, neuroanatomy, reproduction, development, cognition, and social complexity. 
+
+    Paradoxically, these very similarities make the use of NHPs in biomedical research an ethically considered decision. Human ethics are dynamic, and a correlate of this are our changing attitudes and laws and :ref:`regulations <AR_regulation>` over time. Invasive biomedical research on non-human great ape species (i.e. all members of the superfamily *Hominoidea*, excluding *Homo sapiens*: chimpanzees, bonobos, gorillas, orangutans) has been phased out in many parts of the world in recent decades. Current regulations in the US, EU and Japan therefore make `old world monkeys <https://en.wikipedia.org/wiki/Old_World_monkey>`_ (*Cercopithecidae*) the phylogenetically closest extant relative of humans that are used in biomedical research, with our last common ancestor having existed ~25 to 30 millions years ago. 
 
 
+  .. grid-item:: 
+    :columns: 5
+    :margin: 0
+    :padding: 1
 
-.. figure:: _images/AR/PrimateResearch_SpeciesPieCharts.png
-  :width: 50%
+    .. image:: _images/AR/PrimateResearch_SpeciesTree.png
+      :width: 100%
+      :alt: Primate Phylogeny in Neuroscience
+      :align: right
+
+
+.. image:: _images/AR/PrimateResearch_SpeciesPieCharts.png
+  :width: 40%
   :alt: Primate use in US biomedical research
   :align: left
 
@@ -37,6 +50,8 @@ Basic neuroscience research in non-human primates (NHPs) is irreplaceable for in
     .. image :: _images/spacer.png
        :width: 1
 
+
+.. _AR_regulation:
 
 :fa:`earth-americas` Regulation of Animal Research
 ======================================================
@@ -94,7 +109,7 @@ The primary regulations, policies, and guidelines that apply to animal care and 
       :widths: 20 20 60
       :align: left
 
-    Additionally, the `U.S. Government Principles for the Utilization and Care of Vertebrate Animals Used in Testing, Research and Training <https://olaw.nih.gov/policies-laws/gov-principles.htm>`_ apply to animal research at NIH.
+   The `U.S. Government Principles for the Utilization and Care of Vertebrate Animals Used in Testing, Research and Training <https://olaw.nih.gov/policies-laws/gov-principles.htm>`_ apply to animal research at NIH.
 
 
   .. tab-item:: EU |EU|
@@ -106,6 +121,8 @@ The primary regulations, policies, and guidelines that apply to animal care and 
   .. tab-item:: UK |UK|
 
     In the UK, animal research that can cause pain or suffering is regulated by the Animals (Scientific Procedures) Act 1986 with the Home Office as the lead government department. The law permits the use of animals in research as long as there is no alternative. Where their use is unavoidable, it requires that scientists only use the minimum number of animals and take steps to limit any pain, suffering or distress.
+
+
 
 
   .. tab-item:: China
@@ -125,18 +142,31 @@ The primary regulations, policies, and guidelines that apply to animal care and 
 :fa:`comments` Communicating about animal research
 ======================================================
 
-.. image:: _images/AR/AnimalResearch_GallupPoll_w.png
-  :width: 40%
-  :align: right
+.. grid:: 2
 
-.. plot:: Plot_AnimalResearchPolls.py
-  :include-source: False
-  :width: 300px
-  :align: right
+  .. grid-item:: 
+    :columns: 7
+    :margin: 0
+    :padding: 0 0 0 2
 
-Working inside the bubble of the scientific community, many researchers may take for granted the scientific and ethical reasoning in favor of animal research. However, surveys of US adults over the last few decades have found that a growing number of respondents claim -when questioned in certain ways- to be opposed to the use of animals in scientific research. However, this picture is at odds with consumer behaviour and public demand for medical treatments that were developed from animal research, such as vaccines. Are most people just hypocrites, and living in cognitive dissonance?
+    Working inside the bubble of the scientific community, many researchers may take for granted the scientific and ethical reasoning in favor of animal research. However, surveys of US adults over the last few decades have found that a growing number of respondents claim -when questioned in certain ways- to be opposed to the use of animals in scientific research. However, this picture is at odds with consumer behaviour and public demand for medical treatments that were developed from animal research, such as vaccines. Are most people just hypocrites, and living in cognitive dissonance?
 
-Tellingly, support for animal research has historically seen increases during pandemics, when people's health is at risk, and teh importance of animal research is given more attention in the media. Similarly, support for animal research tends to be positively correlated with respondent's self-reported scientific knowledge: only ~1/3 of those with low levels of scientific knowledge support animal research, compared to nearly 2/3 of those with high levels. **This illustrates the importance of educating the public about the benefits of animal research.**
+    Tellingly, support for animal research has historically seen increases during pandemics, when people's health is at risk, and teh importance of animal research is given more attention in the media. Similarly, support for animal research tends to be positively correlated with respondent's self-reported scientific knowledge: only ~1/3 of those with low levels of scientific knowledge support animal research, compared to nearly 2/3 of those with high levels. **This illustrates the importance of educating the public about the benefits of animal research.**
+
+  .. grid-item:: 
+    :columns: 5
+    :margin: 0
+    :padding: 1
+
+    .. image:: _images/AR/AnimalResearch_GallupPoll_w.png
+      :width: 100%
+      :align: right
+
+    .. plot:: Plot_AnimalResearchPolls.py
+      :include-source: False
+      :width: 300px
+      :align: right
+
 
 .. image:: _images/AR/AnimalResearch_FBR_poll2021.png
   :width: 40%
@@ -184,7 +214,9 @@ While recent polls suggest that the COVID-19 pandemic boosted public support for
 
 `Parker AJ (2020). The ethical cost of doing nothing. National Science Review <https://doi.org/10.1093/nsr/nwaa095>`_
 
+`Phillips et al. (2014). Why primate models matter <https://doi.org/10.1002/ajp.22281>`_
 
+`Roelfsema & Treue (2014). Basic Neuroscience Research with Nonhuman Primates: A Small but Indispensable Component of Biomedical Research <https://doi.org/10.1016/j.neuron.2014.06.003>`_
 
 
 

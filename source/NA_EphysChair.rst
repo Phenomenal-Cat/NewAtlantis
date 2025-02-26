@@ -4,7 +4,7 @@
 PrimaThrone
 =============================
 
-PrimaThrone is an open-source `testing chair <https://www.nc3rs.org.uk/chair-restraint-training-non-human-primates>`_ design for use in :ref:`neurobehavioural research with non-human primates <animalresearch>` (NHPs). 
+PrimaThrone is an open-source `testing chair <https://www.nc3rs.org.uk/chair-restraint-training-non-human-primates>`_ design for use in neurobehavioural research with :ref:`non-human primates <animalresearch>` (NHPs). 
 
 
 
@@ -16,6 +16,7 @@ PrimaThrone is an open-source `testing chair <https://www.nc3rs.org.uk/chair-res
   .. grid-item:: 
     :columns: 4
     :margin: 0
+    :padding: 0 0 0 2
 
     .. image:: _images/Designs/PrimaThrone/NA_PrimaThrone_V1.jpg
       :width: 100%
@@ -23,6 +24,7 @@ PrimaThrone is an open-source `testing chair <https://www.nc3rs.org.uk/chair-res
 
   .. grid-item:: 
     :margin: 0
+    :padding: 0 0 1 0
     :columns: 8
 
     Neuroscientific research in NHPs requires a range of esoteric products, that manufacturers are able to charge exorbitant prices for. The NHP testing 'chair' is one such item, with each unit typically costing around :ref:`$14,000 <commercialchairs>`, while the cost of the materials is :ref:`less than $1,000 <primathrone_bom>`.

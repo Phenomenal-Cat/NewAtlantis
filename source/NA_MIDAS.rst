@@ -182,7 +182,7 @@ Chamber localization MRI scan
 
 .. container:: clearer
 
-    .. image :: ../_images/spacer.png
+    .. image :: _images/spacer.png
        :width: 1
 
 Surgery #2: Electrode implantation
