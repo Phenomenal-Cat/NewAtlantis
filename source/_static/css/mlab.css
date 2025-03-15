@@ -145,6 +145,10 @@ div.body {
     max-width: 70%;
 }
 
+.wy-nav-content {
+    max-width: 1200px !important;
+}
+
 /* ============== Contents panel ================ */
 div.contents {
     background-color: var(--main-middark);

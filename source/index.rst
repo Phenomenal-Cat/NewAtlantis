@@ -126,6 +126,13 @@
         :show_captions_below:
         :data-bs-interval: 5000
 
+        .. figure:: _images/Screenshots/Slicer_ExampleChamber.png
+          :target: https://py-ignite.rtfd.io/
+
+          IGNITE (Image-Guided Neural Implantation Targeting Extensions)
+
+          Python scripts and macros for various open-source software related to analysis of medical imaging (`Slicer <www.slicer.org>`_) and computer aided design (`FreeCAD <www.freecad.org>`_).
+
         .. figure:: _images/Photos/MF3D_CooCall_copy.png
           :target: https://mf3d.readthedocs.io/
 
@@ -134,13 +141,6 @@
           Virtual macaque monkey avatar data and `Blender <www.blender.org>`_ software tools for studying social processing in non-human primates.
 
           
-        .. figure:: _images/Screenshots/Slicer_ExampleChamber.png
-          :target: https://py-ignite.rtfd.io/
-
-          IGNITE (Image-Guided Neural Implantation Targeting Extensions)
-
-          Python scripts and macros for various open-source software related to analysis of medical imaging (`Slicer <www.slicer.org>`_) and computer aided design (`FreeCAD <www.freecad.org>`_).
-
         .. figure:: _images/Screenshots/PsychToolbar_DisplayMockUp.png
           :target: https://psychtoolbar.rtfd.io/
 
