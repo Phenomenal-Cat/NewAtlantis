@@ -137,7 +137,7 @@ The primary regulations, policies, and guidelines that apply to animal care and 
 
 
 
-.. _CommunicatingAnimalResearch
+.. _CommunicatingAnimalResearch:
 
 :fa:`comments` Communicating about animal research
 ======================================================
@@ -151,7 +151,7 @@ The primary regulations, policies, and guidelines that apply to animal care and 
 
     Working inside the bubble of the scientific community, many researchers may take for granted the scientific and ethical reasoning in favor of animal research. However, surveys of US adults over the last few decades have found that a growing number of respondents claim -when questioned in certain ways- to be opposed to the use of animals in scientific research. However, this picture is at odds with consumer behaviour and public demand for medical treatments that were developed from animal research, such as vaccines. Are most people just hypocrites, and living in cognitive dissonance?
 
-    Tellingly, support for animal research has historically seen increases during pandemics, when people's health is at risk, and teh importance of animal research is given more attention in the media. Similarly, support for animal research tends to be positively correlated with respondent's self-reported scientific knowledge: only ~1/3 of those with low levels of scientific knowledge support animal research, compared to nearly 2/3 of those with high levels. **This illustrates the importance of educating the public about the benefits of animal research.**
+    Tellingly, support for animal research has historically seen increases during pandemics, when people's health is at risk, and the importance of animal research is given more attention in the media. Similarly, support for animal research tends to be positively correlated with respondent's self-reported scientific knowledge: only ~1/3 of those with low levels of scientific knowledge support animal research, compared to nearly 2/3 of those with high levels. *This illustrates the importance of **educating the public** about the benefits of animal research.*
 
   .. grid-item:: 
     :columns: 5

@@ -323,6 +323,18 @@ New Atlantis Laboratories' :bdg-ref-info:`open hardware <NA_HardwareIndx>` proje
     :target: https://creativecommons.org/licenses/by-sa/4.0/
 
 
+.. dropdown:: :fa:`envelope` Contact Us
+  :margin: 2 2 0 0
+  :animate: fade-in
+  :color: info
+  :class-title: sd-text-left sd-font-weight-bold p-2
+  :class-body: sd-bg-dark sd-text-left
+
+  To contact us, please complete the form below:
+
+  .. include:: NA_ContactForm.rst
+
+
 .. toctree::
    :hidden:
    :maxdepth: 3
